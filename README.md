@@ -1,4 +1,4 @@
-# Datarevenue Code Challenge
+# Wine Rating Predictor
 
 Congratulations for making it to the Data Revenue Code Challenge 2020. This coding challenge will be used to evaluate your technical as well as your communication skills.
 
