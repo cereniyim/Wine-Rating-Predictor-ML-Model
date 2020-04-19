@@ -1,0 +1,95 @@
+cereniyim@Cerens-MacBook-Pro code-challenge-2020 % docker-compose up orchestrator
+Creating network "code-challenge-2020_default" with the default driver
+Creating code-challenge-2020_luigid_1 ... done
+Creating code-challenge-2020_orchestrator_1 ... done
+Attaching to code-challenge-2020_orchestrator_1
+orchestrator_1  | DEBUG: Checking if EvaluateModel(no_remove_finished=False, in_test_features_csv=/usr/share/data/interim/test_features.csv, in_test_target_csv=/usr/share/data/interim/test_target.csv, in_trained_model=/usr/share/data/output/model.sav, out_dir=/usr/share/data/output/, flag=.SUCCESS_EvaluateModel) is complete
+orchestrator_1  | DEBUG: Checking if TrainModel(no_remove_finished=False, in_train_features_csv=/usr/share/data/interim/train_features.csv, in_train_target_csv=/usr/share/data/interim/train_target.csv, out_dir=/usr/share/data/output/) is complete
+orchestrator_1  | INFO: Informed scheduler that task   EvaluateModel__SUCCESS_Evaluat__usr_share_data___usr_share_data__e1f3502bf2   has status   PENDING
+orchestrator_1  | DEBUG: Checking if ImputeData(no_remove_finished=False, in_train_csv=/usr/share/data/interim/train_transformed.csv, in_test_csv=/usr/share/data/interim/test_transformed.csv, out_dir=/usr/share/data/interim/, flag=.SUCCESS_ImputeData) is complete
+orchestrator_1  | INFO: Informed scheduler that task   TrainModel__usr_share_data___usr_share_data__False_b574aa06fd   has status   PENDING
+orchestrator_1  | DEBUG: Checking if TransformData(no_remove_finished=False, in_train_csv=/usr/share/data/interim/train_features_extracted.csv, in_test_csv=/usr/share/data/interim/test_features_extracted.csv, out_dir=/usr/share/data/interim/, flag=.SUCCESS_TransformData) is complete
+orchestrator_1  | INFO: Informed scheduler that task   ImputeData__SUCCESS_ImputeD__usr_share_data___usr_share_data__4947766e89   has status   PENDING
+orchestrator_1  | DEBUG: Checking if ExtractFeatures(no_remove_finished=False, in_train_csv=/usr/share/data/interim/train_cleaned.csv, in_test_csv=/usr/share/data/interim/test_cleaned.csv, out_dir=/usr/share/data/interim/, flag=.SUCCESS_ExtractFeatures) is complete
+orchestrator_1  | INFO: Informed scheduler that task   TransformData__SUCCESS_Transfo__usr_share_data___usr_share_data__78aa9e0662   has status   PENDING
+orchestrator_1  | DEBUG: Checking if CleanData(no_remove_finished=False, in_train_csv=/usr/share/data/interim/train.csv, in_test_csv=/usr/share/data/interim/test.csv, out_dir=/usr/share/data/interim/, flag=.SUCCESS_CleanData) is complete
+orchestrator_1  | INFO: Informed scheduler that task   ExtractFeatures__SUCCESS_Extract__usr_share_data___usr_share_data__e390038c60   has status   PENDING
+orchestrator_1  | DEBUG: Checking if MakeDatasets(no_remove_finished=False, in_csv=/usr/share/data/raw/wine_dataset.csv, out_dir=/usr/share/data/interim/, flag=.SUCCESS_MakeDatasets) is complete
+orchestrator_1  | INFO: Informed scheduler that task   CleanData__SUCCESS_CleanDa__usr_share_data___usr_share_data__4100dab581   has status   PENDING
+orchestrator_1  | DEBUG: Checking if DownloadData(no_remove_finished=False, fname=wine_dataset, out_dir=/usr/share/data/raw/, url=https://github.com/datarevenue-berlin/code-challenge-2019/releases/download/0.1.0/dataset_sampled.csv) is complete
+orchestrator_1  | INFO: Informed scheduler that task   MakeDatasets__SUCCESS_MakeDat__usr_share_data__False_1728fa99b7   has status   PENDING
+orchestrator_1  | INFO: Informed scheduler that task   DownloadData_wine_dataset_False__usr_share_data__79bc385f2e   has status   PENDING
+orchestrator_1  | INFO: Done scheduling tasks
+orchestrator_1  | INFO: Running Worker with 1 processes
+orchestrator_1  | DEBUG: Asking scheduler for work...
+orchestrator_1  | DEBUG: Pending tasks: 8
+orchestrator_1  | INFO: [pid 1] Worker Worker(salt=339999081, workers=1, host=46a6fbf3f427, username=root, pid=1) running   DownloadData(no_remove_finished=False, fname=wine_dataset, out_dir=/usr/share/data/raw/, url=https://github.com/datarevenue-berlin/code-challenge-2019/releases/download/0.1.0/dataset_sampled.csv)
+orchestrator_1  | INFO: INFO:download-data:Downloading dataset
+orchestrator_1  | INFO: INFO:download-data:Will write to /usr/share/data/raw/wine_dataset.csv
+orchestrator_1  | INFO: [pid 1] Worker Worker(salt=339999081, workers=1, host=46a6fbf3f427, username=root, pid=1) done      DownloadData(no_remove_finished=False, fname=wine_dataset, out_dir=/usr/share/data/raw/, url=https://github.com/datarevenue-berlin/code-challenge-2019/releases/download/0.1.0/dataset_sampled.csv)
+orchestrator_1  | DEBUG: 1 running tasks, waiting for next task to finish
+orchestrator_1  | INFO: Informed scheduler that task   DownloadData_wine_dataset_False__usr_share_data__79bc385f2e   has status   DONE
+orchestrator_1  | DEBUG: Asking scheduler for work...
+orchestrator_1  | DEBUG: Pending tasks: 7
+orchestrator_1  | INFO: [pid 1] Worker Worker(salt=339999081, workers=1, host=46a6fbf3f427, username=root, pid=1) running   MakeDatasets(no_remove_finished=False, in_csv=/usr/share/data/raw/wine_dataset.csv, out_dir=/usr/share/data/interim/, flag=.SUCCESS_MakeDatasets)
+orchestrator_1  | INFO: [pid 1] Worker Worker(salt=339999081, workers=1, host=46a6fbf3f427, username=root, pid=1) done      MakeDatasets(no_remove_finished=False, in_csv=/usr/share/data/raw/wine_dataset.csv, out_dir=/usr/share/data/interim/, flag=.SUCCESS_MakeDatasets)
+orchestrator_1  | DEBUG: 1 running tasks, waiting for next task to finish
+orchestrator_1  | INFO: Informed scheduler that task   MakeDatasets__SUCCESS_MakeDat__usr_share_data__False_1728fa99b7   has status   DONE
+orchestrator_1  | DEBUG: Asking scheduler for work...
+orchestrator_1  | DEBUG: Pending tasks: 6
+orchestrator_1  | INFO: [pid 1] Worker Worker(salt=339999081, workers=1, host=46a6fbf3f427, username=root, pid=1) running   CleanData(no_remove_finished=False, in_train_csv=/usr/share/data/interim/train.csv, in_test_csv=/usr/share/data/interim/test.csv, out_dir=/usr/share/data/interim/, flag=.SUCCESS_CleanData)
+orchestrator_1  | INFO: [pid 1] Worker Worker(salt=339999081, workers=1, host=46a6fbf3f427, username=root, pid=1) done      CleanData(no_remove_finished=False, in_train_csv=/usr/share/data/interim/train.csv, in_test_csv=/usr/share/data/interim/test.csv, out_dir=/usr/share/data/interim/, flag=.SUCCESS_CleanData)
+orchestrator_1  | DEBUG: 1 running tasks, waiting for next task to finish
+orchestrator_1  | INFO: Informed scheduler that task   CleanData__SUCCESS_CleanDa__usr_share_data___usr_share_data__4100dab581   has status   DONE
+orchestrator_1  | DEBUG: Asking scheduler for work...
+orchestrator_1  | DEBUG: Pending tasks: 5
+orchestrator_1  | INFO: [pid 1] Worker Worker(salt=339999081, workers=1, host=46a6fbf3f427, username=root, pid=1) running   ExtractFeatures(no_remove_finished=False, in_train_csv=/usr/share/data/interim/train_cleaned.csv, in_test_csv=/usr/share/data/interim/test_cleaned.csv, out_dir=/usr/share/data/interim/, flag=.SUCCESS_ExtractFeatures)
+orchestrator_1  | INFO: [pid 1] Worker Worker(salt=339999081, workers=1, host=46a6fbf3f427, username=root, pid=1) done      ExtractFeatures(no_remove_finished=False, in_train_csv=/usr/share/data/interim/train_cleaned.csv, in_test_csv=/usr/share/data/interim/test_cleaned.csv, out_dir=/usr/share/data/interim/, flag=.SUCCESS_ExtractFeatures)
+orchestrator_1  | DEBUG: 1 running tasks, waiting for next task to finish
+orchestrator_1  | INFO: Informed scheduler that task   ExtractFeatures__SUCCESS_Extract__usr_share_data___usr_share_data__e390038c60   has status   DONE
+orchestrator_1  | DEBUG: Asking scheduler for work...
+orchestrator_1  | DEBUG: Pending tasks: 4
+orchestrator_1  | INFO: [pid 1] Worker Worker(salt=339999081, workers=1, host=46a6fbf3f427, username=root, pid=1) running   TransformData(no_remove_finished=False, in_train_csv=/usr/share/data/interim/train_features_extracted.csv, in_test_csv=/usr/share/data/interim/test_features_extracted.csv, out_dir=/usr/share/data/interim/, flag=.SUCCESS_TransformData)
+orchestrator_1  | INFO: [pid 1] Worker Worker(salt=339999081, workers=1, host=46a6fbf3f427, username=root, pid=1) done      TransformData(no_remove_finished=False, in_train_csv=/usr/share/data/interim/train_features_extracted.csv, in_test_csv=/usr/share/data/interim/test_features_extracted.csv, out_dir=/usr/share/data/interim/, flag=.SUCCESS_TransformData)
+orchestrator_1  | DEBUG: 1 running tasks, waiting for next task to finish
+orchestrator_1  | INFO: Informed scheduler that task   TransformData__SUCCESS_Transfo__usr_share_data___usr_share_data__78aa9e0662   has status   DONE
+orchestrator_1  | DEBUG: Asking scheduler for work...
+orchestrator_1  | DEBUG: Pending tasks: 3
+orchestrator_1  | INFO: [pid 1] Worker Worker(salt=339999081, workers=1, host=46a6fbf3f427, username=root, pid=1) running   ImputeData(no_remove_finished=False, in_train_csv=/usr/share/data/interim/train_transformed.csv, in_test_csv=/usr/share/data/interim/test_transformed.csv, out_dir=/usr/share/data/interim/, flag=.SUCCESS_ImputeData)
+orchestrator_1  | INFO: [pid 1] Worker Worker(salt=339999081, workers=1, host=46a6fbf3f427, username=root, pid=1) done      ImputeData(no_remove_finished=False, in_train_csv=/usr/share/data/interim/train_transformed.csv, in_test_csv=/usr/share/data/interim/test_transformed.csv, out_dir=/usr/share/data/interim/, flag=.SUCCESS_ImputeData)
+orchestrator_1  | DEBUG: 1 running tasks, waiting for next task to finish
+orchestrator_1  | INFO: Informed scheduler that task   ImputeData__SUCCESS_ImputeD__usr_share_data___usr_share_data__4947766e89   has status   DONE
+orchestrator_1  | DEBUG: Asking scheduler for work...
+orchestrator_1  | DEBUG: Pending tasks: 2
+orchestrator_1  | INFO: [pid 1] Worker Worker(salt=339999081, workers=1, host=46a6fbf3f427, username=root, pid=1) running   TrainModel(no_remove_finished=False, in_train_features_csv=/usr/share/data/interim/train_features.csv, in_train_target_csv=/usr/share/data/interim/train_target.csv, out_dir=/usr/share/data/output/)
+orchestrator_1  | INFO: [pid 1] Worker Worker(salt=339999081, workers=1, host=46a6fbf3f427, username=root, pid=1) done      TrainModel(no_remove_finished=False, in_train_features_csv=/usr/share/data/interim/train_features.csv, in_train_target_csv=/usr/share/data/interim/train_target.csv, out_dir=/usr/share/data/output/)
+orchestrator_1  | DEBUG: 1 running tasks, waiting for next task to finish
+orchestrator_1  | INFO: Informed scheduler that task   TrainModel__usr_share_data___usr_share_data__False_b574aa06fd   has status   DONE
+orchestrator_1  | DEBUG: Asking scheduler for work...
+orchestrator_1  | DEBUG: Pending tasks: 1
+orchestrator_1  | INFO: [pid 1] Worker Worker(salt=339999081, workers=1, host=46a6fbf3f427, username=root, pid=1) running   EvaluateModel(no_remove_finished=False, in_test_features_csv=/usr/share/data/interim/test_features.csv, in_test_target_csv=/usr/share/data/interim/test_target.csv, in_trained_model=/usr/share/data/output/model.sav, out_dir=/usr/share/data/output/, flag=.SUCCESS_EvaluateModel)
+orchestrator_1  | INFO: INFO:evaluate-model:Mean square error of the model is: 4.95
+orchestrator_1  | INFO: [pid 1] Worker Worker(salt=339999081, workers=1, host=46a6fbf3f427, username=root, pid=1) done      EvaluateModel(no_remove_finished=False, in_test_features_csv=/usr/share/data/interim/test_features.csv, in_test_target_csv=/usr/share/data/interim/test_target.csv, in_trained_model=/usr/share/data/output/model.sav, out_dir=/usr/share/data/output/, flag=.SUCCESS_EvaluateModel)
+orchestrator_1  | DEBUG: 1 running tasks, waiting for next task to finish
+orchestrator_1  | INFO: Informed scheduler that task   EvaluateModel__SUCCESS_Evaluat__usr_share_data___usr_share_data__e1f3502bf2   has status   DONE
+orchestrator_1  | DEBUG: Asking scheduler for work...
+orchestrator_1  | DEBUG: Done
+orchestrator_1  | DEBUG: There are no more tasks to run at this time
+orchestrator_1  | INFO: Worker Worker(salt=339999081, workers=1, host=46a6fbf3f427, username=root, pid=1) was stopped. Shutting down Keep-Alive thread
+orchestrator_1  | INFO:
+orchestrator_1  | ===== Luigi Execution Summary =====
+orchestrator_1  |
+orchestrator_1  | Scheduled 8 tasks of which:
+orchestrator_1  | * 8 ran successfully:
+orchestrator_1  |     - 1 CleanData(no_remove_finished=False, in_train_csv=/usr/share/data/interim/train.csv, in_test_csv=/usr/share/data/interim/test.csv, out_dir=/usr/share/data/interim/, flag=.SUCCESS_CleanData)
+orchestrator_1  |     - 1 DownloadData(no_remove_finished=False, fname=wine_dataset, out_dir=/usr/share/data/raw/, url=https://github.com/datarevenue-berlin/code-challenge-2019/releases/download/0.1.0/dataset_sampled.csv)
+orchestrator_1  |     - 1 EvaluateModel(...)
+orchestrator_1  |     - 1 ExtractFeatures(...)
+orchestrator_1  |     - 1 ImputeData(...)
+orchestrator_1  |     ...
+orchestrator_1  |
+orchestrator_1  | This progress looks :) because there were no failed tasks or missing dependencies
+orchestrator_1  |
+orchestrator_1  | ===== Luigi Execution Summary =====
+orchestrator_1  |
+code-challenge-2020_orchestrator_1 exited with code 0

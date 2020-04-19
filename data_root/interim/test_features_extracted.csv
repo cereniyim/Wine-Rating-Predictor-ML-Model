@@ -1,0 +1,1001 @@
+country,points,price,province,region_1,taster_name,variety,is_red,is_white,is_rose,is_sparkling,is_dry,is_sweet,year,is_blend
+Italy,90,30.0,Northeastern Italy,Alto Adige,Kerin O’Keefe,Sauvignon,0,0,0,0,0,0,2012.0,0
+France,87,22.0,Loire Valley,Sancerre,Roger Voss,Rosé,1,0,0,0,0,0,2014.0,0
+Italy,86,,Tuscany,Chianti Classico,,Sangiovese,1,0,0,0,0,0,2009.0,0
+US,92,50.0,California,Russian River Valley,Virginie Boone,Pinot Noir,1,0,1,0,0,0,2012.0,0
+US,93,38.0,California,Russian River Valley,Virginie Boone,Chardonnay,0,0,0,0,0,0,2013.0,0
+US,84,14.0,California,Dry Creek Valley,,Chardonnay,0,0,0,0,0,0,2012.0,0
+US,87,25.0,New York,North Fork of Long Island,Anna Lee C. Iijima,Gewürztraminer,0,0,0,0,1,0,2013.0,0
+US,84,35.0,California,Paso Robles,,Barbera,0,0,0,0,1,0,2007.0,0
+France,94,,Bordeaux,Sauternes,Roger Voss,Bordeaux-style White Blend,0,0,0,0,0,0,2009.0,1
+France,88,12.0,Bordeaux,Bordeaux Blanc,Roger Voss,Bordeaux-style White Blend,0,1,0,0,0,0,2014.0,1
+US,85,14.0,California,Dry Creek Valley,,Sauvignon Blanc,0,1,0,0,0,1,2008.0,0
+US,87,20.0,California,Paso Robles,,Rhône-style Red Blend,1,0,0,0,0,0,2012.0,1
+US,92,45.0,Washington,Red Mountain,Sean P. Sullivan,Syrah,1,0,0,0,0,0,2014.0,0
+US,87,32.0,California,Paso Robles,,Meritage,0,0,0,0,0,1,2009.0,0
+South Africa,86,15.0,Western Cape,,Lauren Buzzeo,Pinotage,1,0,0,0,0,0,2013.0,0
+Australia,91,25.0,Western Australia,Frankland River,Joe Czerwinski,Shiraz,0,0,0,0,0,0,2013.0,0
+Australia,89,24.0,Western Australia,Western Australia,Joe Czerwinski,Cabernet Sauvignon,0,0,0,0,0,0,2007.0,0
+Italy,86,14.0,Veneto,Prosecco,,Glera,0,1,0,0,1,0,2010.0,0
+Australia,93,60.0,South Australia,McLaren Vale,Joe Czerwinski,Shiraz,0,0,0,0,0,0,2012.0,0
+US,95,100.0,California,Alexander Valley,,Cabernet Sauvignon,0,0,0,0,0,1,2010.0,0
+Australia,88,27.0,Victoria,Rutherglen,Joe Czerwinski,Petite Sirah,0,0,0,0,0,0,2000.0,0
+Italy,92,65.0,Veneto,Amarone della Valpolicella Classico,Kerin O’Keefe,Red Blend,1,0,0,0,0,0,2010.0,1
+Argentina,91,33.0,Mendoza Province,Luján de Cuyo,Michael Schachner,Malbec,1,0,0,0,0,0,2013.0,0
+France,87,,Bordeaux,Bordeaux Supérieur,Roger Voss,Bordeaux-style Red Blend,0,0,0,0,1,0,2011.0,1
+Argentina,86,12.0,Other,Salta,Michael Schachner,Torrontés,0,1,0,0,0,0,2011.0,0
+US,93,46.0,California,Anderson Valley,,Pinot Noir,1,0,0,0,0,1,2009.0,0
+Germany,91,34.0,Mittelrhein,,Anna Lee C. Iijima,Riesling,0,0,0,0,0,0,2011.0,0
+Austria,90,,Wachau,,Roger Voss,Riesling,0,0,0,0,0,0,2007.0,0
+US,90,50.0,California,Napa Valley,Virginie Boone,Cabernet Sauvignon,1,0,0,0,0,0,2013.0,0
+Australia,91,40.0,Tasmania,Tasmania,Joe Czerwinski,Sparkling Blend,1,0,0,1,0,0,2009.0,1
+New Zealand,89,19.0,Hawke's Bay,,,Sauvignon Blanc,0,0,0,0,0,0,2001.0,0
+US,93,42.0,Washington,Columbia Valley (WA),Sean P. Sullivan,Syrah,1,0,0,0,1,0,2002.0,0
+Italy,92,140.0,Tuscany,Brunello di Montalcino,,Sangiovese Grosso,0,0,0,0,0,0,2006.0,0
+Italy,88,50.0,Piedmont,Barolo,Kerin O’Keefe,Nebbiolo,0,0,0,0,0,0,2012.0,0
+US,92,75.0,California,Napa Valley,Virginie Boone,Cabernet Sauvignon,0,0,0,0,0,0,2013.0,0
+Chile,87,16.0,Maule Valley,,Michael Schachner,Merlot,1,0,0,0,0,0,2014.0,0
+US,86,42.0,California,Oak Knoll District,,Chardonnay,0,0,0,0,0,0,2010.0,0
+US,90,22.0,California,Sonoma Valley,Virginie Boone,Merlot,0,0,0,0,0,0,2014.0,0
+Australia,87,15.0,South Australia,Limestone Coast,Joe Czerwinski,Shiraz,0,0,0,0,0,0,2005.0,0
+France,86,16.0,Languedoc-Roussillon,Sable de Camargue,Lauren Buzzeo,Rosé,1,1,1,0,0,1,2015.0,0
+US,89,34.0,California,Carneros,,Pinot Noir,0,0,0,0,0,0,2011.0,0
+France,86,13.0,Bordeaux,Bordeaux,,Bordeaux-style Red Blend,1,0,0,0,0,0,1999.0,1
+South Africa,91,37.0,Overberg,,Lauren Buzzeo,Chardonnay,0,0,0,0,0,1,2010.0,0
+France,87,20.0,Bordeaux,Blaye Côtes de Bordeaux,Roger Voss,Bordeaux-style Red Blend,1,0,0,0,0,0,2014.0,1
+Italy,93,180.0,Tuscany,Brunello di Montalcino,,Sangiovese Grosso,1,0,0,0,0,0,2007.0,0
+Italy,95,150.0,Tuscany,Brunello di Montalcino,Kerin O’Keefe,Sangiovese,1,1,0,0,0,0,2011.0,0
+US,82,20.0,California,Paso Robles,,Syrah,0,0,0,0,1,0,2006.0,0
+US,88,42.0,New York,North Fork of Long Island,Anna Lee C. Iijima,Chardonnay,0,1,0,0,0,1,2006.0,0
+US,88,27.0,Oregon,Oregon,Paul Gregutt,Pinot Noir,1,0,0,0,0,0,2010.0,0
+Chile,81,11.0,Central Valley,,Michael Schachner,Pinot Noir,1,0,0,0,0,0,2015.0,0
+US,92,65.0,California,Lodi,Jim Gordon,Syrah,0,0,0,0,0,0,2013.0,0
+US,86,25.0,Oregon,Eola-Amity Hills,Paul Gregutt,Pinot Noir,0,0,0,0,0,0,2015.0,0
+Chile,84,8.0,Central Valley,,Michael Schachner,Merlot,1,0,0,0,0,0,2008.0,0
+Spain,87,14.0,Northern Spain,Rueda,Michael Schachner,Verdejo,0,0,0,0,0,0,2007.0,0
+New Zealand,92,35.0,Waiheke Island,,Joe Czerwinski,Chardonnay,0,0,0,0,0,0,2010.0,0
+US,91,42.0,Washington,Red Mountain,Sean P. Sullivan,Bordeaux-style Red Blend,0,0,0,0,0,0,2013.0,1
+US,90,65.0,California,St. Helena,,Cabernet Sauvignon,0,0,0,0,0,0,2008.0,0
+US,84,15.0,Oregon,Willamette Valley,Paul Gregutt,Rosé,1,0,1,0,0,0,2011.0,0
+Chile,91,33.0,Casablanca Valley,,Michael Schachner,Sauvignon Blanc,0,0,0,0,0,0,2011.0,0
+US,94,86.0,Oregon,Willamette Valley,Paul Gregutt,Pinot Noir,0,0,0,0,0,0,2013.0,0
+Portugal,84,10.0,Lisboa,,Roger Voss,Portuguese Red,1,0,0,0,0,0,2015.0,0
+US,92,30.0,California,Santa Ynez Valley,Matt Kettmann,Sauvignon Blanc,0,0,0,0,0,0,2013.0,0
+Spain,88,18.0,Catalonia,Cava,Michael Schachner,Sparkling Blend,0,0,0,0,0,0,,1
+Spain,85,17.0,Northern Spain,Vino de la Tierra del Bajo Aragón,Michael Schachner,Garnacha,1,0,0,0,1,0,2005.0,0
+Italy,92,80.0,Piedmont,Barolo,Kerin O’Keefe,Nebbiolo,1,0,0,0,0,0,2012.0,0
+South Africa,90,12.0,Robertson,,Roger Voss,Chardonnay,0,0,0,0,0,0,2001.0,0
+Italy,89,19.0,Tuscany,Chianti Classico,Kerin O’Keefe,Red Blend,1,0,0,0,1,0,2011.0,1
+US,87,15.0,California,Oakville,Virginie Boone,Merlot,1,0,0,0,0,1,2013.0,0
+US,93,35.0,Washington,Wahluke Slope,Paul Gregutt,Syrah,1,0,0,0,0,0,2009.0,0
+France,93,,Alsace,Alsace,Roger Voss,Riesling,0,1,0,0,1,1,2012.0,0
+US,90,20.0,California,Russian River Valley,,Chardonnay,0,0,0,0,0,1,2010.0,0
+US,87,35.0,California,Carneros-Napa Valley,Virginie Boone,Pinot Noir,1,0,0,0,0,0,2012.0,0
+US,86,32.0,California,Napa Valley,,Cabernet Franc,1,0,0,0,0,0,2009.0,0
+US,94,48.0,California,Russian River Valley,Virginie Boone,Pinot Noir,0,0,0,0,0,0,2015.0,0
+US,85,7.0,California,Monterey County,,Merlot,0,0,0,0,1,1,2006.0,0
+Austria,85,18.0,Burgenland,,Roger Voss,Sauvignon Blanc,0,0,0,0,0,0,2008.0,0
+Spain,88,19.0,Northern Spain,Getariako Txakolina,Michael Schachner,Hondarrabi Zuri,0,0,0,0,1,0,2015.0,0
+Italy,89,20.0,Piedmont,Barbera d'Alba,Kerin O’Keefe,Barbera,1,1,0,0,0,0,2012.0,0
+Italy,88,13.0,Northeastern Italy,Vigneti delle Dolomiti,,Red Blend,0,0,0,0,0,0,2009.0,1
+US,86,11.0,Washington,Columbia Valley (WA),Paul Gregutt,Cabernet Sauvignon-Merlot,1,0,0,0,0,0,1999.0,1
+France,94,61.0,Champagne,Champagne,Roger Voss,Chardonnay,0,0,0,0,0,0,,0
+US,88,60.0,California,Napa Valley,Virginie Boone,Cabernet Sauvignon,1,0,0,0,0,0,2013.0,0
+Chile,86,12.0,Cachapoal Valley,,Michael Schachner,Carmenère,1,0,0,0,0,0,2008.0,0
+Chile,84,25.0,Aconcagua Valley,,Michael Schachner,Carmenère,0,0,0,0,0,0,2010.0,0
+Italy,85,10.0,Northeastern Italy,Trentino,Joe Czerwinski,Chardonnay,0,0,0,0,0,0,2001.0,0
+US,87,35.0,California,Napa Valley,Virginie Boone,Cabernet Sauvignon,1,0,0,0,1,0,2012.0,0
+France,87,20.0,France Other,Chignin,Roger Voss,Jacquère,0,1,0,0,0,0,2012.0,0
+Austria,92,34.0,Burgenland,,Anne Krebiehl MW,White Blend,0,0,0,0,0,0,2011.0,1
+US,86,15.0,California,Arroyo Seco,Matt Kettmann,Chardonnay,0,1,0,0,0,0,2016.0,0
+Spain,89,15.0,Northern Spain,Rioja,Michael Schachner,Tempranillo Blend,1,0,0,0,0,0,2010.0,1
+Italy,88,18.0,Veneto,Valpolicella Classico Superiore Ripasso,,"Corvina, Rondinella, Molinara",0,0,0,0,0,0,2010.0,0
+US,93,100.0,California,Napa Valley,,Bordeaux-style Red Blend,1,0,0,0,1,0,1997.0,1
+US,85,14.0,California,California,Jim Gordon,Sauvignon Blanc,0,0,0,0,0,0,2016.0,0
+Italy,81,25.0,Sicily & Sardinia,Sicilia,,Rosato,1,0,0,0,0,0,2011.0,0
+Argentina,87,21.0,Mendoza Province,Uco Valley,Michael Schachner,Chardonnay,0,0,0,0,0,0,2012.0,0
+US,87,50.0,California,Russian River Valley,,Chardonnay,0,0,0,0,0,1,2012.0,0
+France,91,,Loire Valley,Sancerre,Roger Voss,Sauvignon Blanc,0,0,0,0,0,0,2013.0,0
+Canada,89,41.0,British Columbia,Okanagan Valley,Paul Gregutt,Chardonnay,0,1,0,0,0,0,2014.0,0
+US,83,13.0,New Jersey,New Jersey,Susan Kostrzewa,Riesling,0,0,0,0,0,0,2005.0,0
+US,83,15.0,Washington,Columbia Valley (WA),Sean P. Sullivan,Chardonnay,0,0,0,0,0,0,2012.0,0
+US,94,95.0,Oregon,Willamette Valley,Paul Gregutt,Pinot Noir,1,1,0,1,0,0,2014.0,0
+Portugal,86,22.0,Tejo,,Roger Voss,Touriga Nacional,0,0,0,0,0,0,2012.0,0
+France,90,85.0,Burgundy,Chambolle-Musigny,Roger Voss,Pinot Noir,1,0,0,0,0,0,2013.0,0
+Portugal,90,80.0,Port,,Roger Voss,Port,1,0,0,0,0,0,2015.0,0
+France,87,34.0,Burgundy,Santenay,Roger Voss,Pinot Noir,1,0,0,0,0,0,2014.0,0
+US,86,14.0,California,Sonoma County,,Cabernet Sauvignon,0,0,0,0,0,0,1989.0,0
+Chile,88,15.0,Chile,,,Bordeaux-style Red Blend,0,0,0,0,1,0,2000.0,1
+Spain,86,16.0,Galicia,Rías Baixas,Michael Schachner,Albariño,0,1,0,0,0,0,2014.0,0
+US,85,26.0,New York,Finger Lakes,Anna Lee C. Iijima,Pinot Noir,1,0,0,1,1,0,2011.0,0
+France,92,103.0,Burgundy,Gevrey-Chambertin,Roger Voss,Pinot Noir,0,0,0,0,1,0,2014.0,0
+US,86,15.0,California,Central Coast,,Pinot Grigio,0,0,0,0,1,0,2006.0,0
+US,86,49.0,California,Diamond Mountain District,,Red Blend,1,0,0,0,0,0,2009.0,1
+US,90,50.0,California,Adelaida District,Matt Kettmann,Mourvèdre,0,0,0,0,0,0,2013.0,0
+Italy,88,18.0,Southern Italy,Campania,,Aglianico,0,1,0,0,0,0,2006.0,0
+Italy,94,60.0,Piedmont,Barolo,Kerin O’Keefe,Nebbiolo,1,0,0,0,0,1,2011.0,0
+Italy,89,,Sicily & Sardinia,Terre Siciliane,Kerin O’Keefe,Nero d'Avola,0,0,0,0,1,0,2013.0,0
+Australia,91,95.0,Victoria,Yarra Valley,Joe Czerwinski,Shiraz-Viognier,1,0,0,0,1,0,2009.0,1
+US,89,35.0,Oregon,Chehalem Mountains,Paul Gregutt,Pinot Noir,1,0,0,0,0,0,2010.0,0
+US,85,12.0,California,Central Coast,,Merlot,0,0,0,0,1,0,2000.0,0
+US,89,77.0,California,Carneros,Virginie Boone,Pinot Noir,1,0,1,0,0,0,2014.0,0
+US,86,55.0,California,Sonoma County,Virginie Boone,Zinfandel,1,0,0,0,0,0,2012.0,0
+Italy,91,25.0,Tuscany,Chianti Classico,,Sangiovese,0,0,0,0,0,0,2007.0,0
+Chile,83,14.0,Colchagua Valley,,Michael Schachner,Cabernet Sauvignon,0,0,0,0,0,0,2015.0,0
+US,84,,Virginia,Virginia,,Pinot Grigio,0,1,0,0,0,0,2011.0,0
+US,90,38.0,California,Russian River Valley,,Chardonnay,0,0,0,0,0,0,2005.0,0
+Spain,88,25.0,Northern Spain,Getariako Txakolina,Michael Schachner,White Blend,0,0,0,0,0,0,2009.0,1
+US,86,25.0,New York,New York,Anna Lee C. Iijima,Sparkling Blend,0,0,0,1,0,1,2014.0,1
+France,88,21.0,Loire Valley,Pouilly-Fumé,Roger Voss,Sauvignon Blanc,0,1,0,0,0,0,2006.0,0
+France,90,26.0,Provence,Côtes de Provence,Roger Voss,Rosé,1,0,0,0,0,0,2016.0,0
+US,92,58.0,California,Napa Valley,,Pinot Noir,1,0,0,0,0,0,2006.0,0
+US,85,15.0,California,Napa Valley,,Sauvignon Blanc,0,0,0,0,0,1,2011.0,0
+Canada,91,44.0,British Columbia,Okanagan Valley,Paul Gregutt,Pinot Noir,0,0,0,0,0,0,2012.0,0
+France,95,65.0,Champagne,Champagne,Roger Voss,Champagne Blend,1,1,0,0,1,0,2012.0,1
+Italy,84,22.0,Tuscany,Rosso di Montalcino,,Sangiovese Grosso,0,0,0,0,0,0,2008.0,0
+US,91,69.0,California,Sonoma Coast,,Pinot Noir,0,0,0,0,0,0,2009.0,0
+Italy,87,15.0,Tuscany,Morellino di Scansano,,Sangiovese,0,0,0,0,0,0,2006.0,0
+US,94,20.0,Washington,Columbia Valley (WA),Paul Gregutt,Riesling,0,0,0,0,0,0,2012.0,0
+US,92,45.0,California,Paso Robles,Matt Kettmann,Aglianico,1,0,1,0,0,0,2014.0,0
+US,82,20.0,California,Napa Valley,,Chardonnay,0,1,0,0,0,1,2007.0,0
+US,84,26.0,California,Paso Robles,,Petite Sirah,0,0,0,0,1,0,2006.0,0
+France,92,179.0,Champagne,Champagne,,Champagne Blend,1,0,0,0,0,0,1994.0,1
+Portugal,87,15.0,Douro,,Roger Voss,Portuguese Red,0,0,0,0,0,0,2014.0,0
+US,86,11.0,California,California,,Malbec,0,0,0,0,0,0,2010.0,0
+France,88,30.0,Alsace,Alsace,Roger Voss,Riesling,0,0,0,0,0,0,2013.0,0
+Italy,84,11.0,Central Italy,Lambrusco Reggiano,,Lambrusco,1,0,0,1,0,1,2012.0,0
+US,94,145.0,California,Rutherford,Virginie Boone,Cabernet Sauvignon,1,0,0,0,1,0,2013.0,0
+Italy,87,22.0,Veneto,Conegliano Valdobbiadene Prosecco Superiore,,Glera,0,1,0,0,0,0,,0
+France,94,20.0,Provence,Coteaux d'Aix-en-Provence,Roger Voss,Rosé,1,0,0,0,0,0,2016.0,0
+Germany,88,14.0,Mosel,,Anna Lee C. Iijima,Riesling,0,0,0,0,0,1,2015.0,0
+US,93,75.0,California,Sonoma Coast,,Pinot Noir,1,0,0,0,0,0,2009.0,0
+US,90,50.0,California,Santa Cruz Mountains,Matt Kettmann,Pinot Noir,1,0,0,0,0,0,2012.0,0
+US,87,22.0,Washington,Horse Heaven Hills,Sean P. Sullivan,Cabernet Sauvignon,0,0,0,0,1,0,2011.0,0
+Spain,86,120.0,Northern Spain,Rioja,Michael Schachner,Graciano,0,0,0,0,0,0,2008.0,0
+US,86,49.0,California,Sonoma Coast,,Pinot Noir,0,0,0,0,0,1,2008.0,0
+US,87,15.0,Washington,Columbia Valley (WA),Sean P. Sullivan,Merlot,0,0,0,0,0,0,2012.0,0
+Argentina,86,12.0,Other,Cafayate,Michael Schachner,Torrontés,0,0,0,0,0,0,2013.0,0
+France,91,,Southwest France,Cahors,Roger Voss,Malbec,0,0,0,0,0,0,2006.0,0
+Chile,85,,Aconcagua Valley,,Michael Schachner,Pinot Noir,1,0,0,0,0,0,2011.0,0
+US,88,19.0,Washington,Columbia Valley (WA),Paul Gregutt,Chardonnay,0,0,0,0,0,0,2011.0,0
+France,90,,Alsace,Alsace,Roger Voss,Pinot Gris,0,0,0,0,0,0,2010.0,0
+US,93,65.0,California,Russian River Valley,Virginie Boone,Pinot Noir,1,0,0,0,0,0,2012.0,0
+US,82,19.0,Washington,Columbia Valley (WA),Sean P. Sullivan,Rosé,0,0,0,0,1,0,2016.0,0
+Germany,94,365.0,Rheingau,,Anna Lee C. Iijima,Riesling,0,0,0,0,0,1,2012.0,0
+France,91,40.0,Champagne,Champagne,Roger Voss,Chardonnay,0,0,0,0,1,0,,0
+France,87,,Bordeaux,Médoc,Roger Voss,Bordeaux-style Red Blend,1,0,0,0,0,0,2008.0,1
+Italy,88,25.0,Piedmont,Langhe,Kerin O’Keefe,Nebbiolo,1,0,0,0,0,0,2013.0,0
+France,91,90.0,Alsace,Alsace,Anne Krebiehl MW,Riesling,0,0,0,0,1,0,2014.0,0
+US,87,38.0,California,Russian River Valley,,Pinot Noir,1,0,0,0,1,0,2009.0,0
+Austria,89,,Thermenregion,,Anne Krebiehl MW,Rotgipfler,0,0,0,0,0,0,2012.0,0
+Italy,90,35.0,Lombardy,Franciacorta,,Sparkling Blend,0,1,1,1,0,0,2006.0,1
+Italy,89,32.0,Tuscany,Bolgheri,Kerin O’Keefe,Red Blend,1,1,0,0,0,0,2012.0,1
+Chile,86,11.0,Maule Valley,,Michael Schachner,Malbec,1,0,0,0,0,0,2011.0,0
+France,88,12.0,Bordeaux,Bordeaux Supérieur,Roger Voss,Bordeaux-style Red Blend,1,0,0,0,1,0,2012.0,1
+Portugal,90,,Lisboa,,Roger Voss,Portuguese Red,1,0,0,0,0,0,2007.0,0
+Spain,92,40.0,Northern Spain,Rioja,Michael Schachner,Tempranillo Blend,0,0,0,0,0,0,2009.0,1
+US,92,135.0,California,Napa Valley,,Cabernet Sauvignon,0,0,0,0,0,0,2010.0,0
+Austria,92,38.0,Wachau,,Anne Krebiehl MW,Grüner Veltliner,0,1,0,0,0,0,2016.0,0
+US,83,25.0,California,Napa Valley,,Cabernet Sauvignon,0,0,0,0,0,1,2011.0,0
+France,88,35.0,Bordeaux,Saint-Émilion,Roger Voss,Bordeaux-style Red Blend,1,0,0,0,0,0,2012.0,1
+Germany,90,42.0,Franken,,Anna Lee C. Iijima,Spätburgunder,1,0,0,0,0,0,2009.0,0
+Portugal,93,47.0,Alentejo,,Roger Voss,Portuguese Red,1,0,0,0,0,0,2013.0,0
+France,87,12.0,Provence,Coteaux Varois,Roger Voss,Rosé,1,0,0,0,0,0,2010.0,0
+US,86,29.0,Washington,Columbia Valley (WA),Paul Gregutt,Red Blend,1,0,0,0,0,0,,1
+Portugal,88,23.0,Port,,Roger Voss,Port,0,0,0,0,1,0,2009.0,0
+US,87,50.0,Washington,Columbia Valley (WA),Paul Gregutt,Red Blend,0,0,0,0,0,0,2009.0,1
+US,85,26.0,Oregon,Rogue Valley,Paul Gregutt,Syrah,0,0,0,0,0,0,2012.0,0
+Spain,92,40.0,Northern Spain,Ribera del Duero,Michael Schachner,Tempranillo,1,0,0,0,0,0,2009.0,0
+Italy,87,22.0,Tuscany,Chianti Classico,Kerin O’Keefe,Red Blend,1,0,0,0,1,0,2012.0,1
+Chile,85,20.0,Limarí Valley,,Michael Schachner,Chardonnay,0,0,0,0,0,0,2013.0,0
+Italy,92,83.0,Piedmont,Barolo,,Nebbiolo,1,0,0,0,0,0,2007.0,0
+Portugal,86,8.0,Alentejano,,Roger Voss,Portuguese Red,1,0,0,0,0,0,2012.0,0
+US,83,25.0,California,California,Jim Gordon,Red Blend,0,0,0,0,0,0,2014.0,1
+US,86,50.0,California,Central Coast,,Cabernet Sauvignon,1,0,0,0,0,1,2010.0,0
+US,87,10.0,Washington,Columbia Valley (WA),Sean P. Sullivan,Merlot,0,0,0,0,0,0,2013.0,0
+Hungary,89,25.0,Tokaj,,Jeff Jenssen,Furmint,0,1,0,0,0,0,2011.0,0
+Italy,87,30.0,Central Italy,Verdicchio dei Castelli di Jesi Classico,Kerin O’Keefe,Verdicchio,0,0,0,0,0,0,2010.0,0
+Chile,83,10.0,Central Valley,,Michael Schachner,Chardonnay,0,0,0,0,0,0,2012.0,0
+Chile,85,9.0,Maipo Valley,,Michael Schachner,Carmenère,1,0,0,0,0,0,2008.0,0
+US,92,45.0,California,Happy Canyon of Santa Barbara,Matt Kettmann,Sauvignon Blanc,1,0,0,0,0,1,2014.0,0
+US,83,14.0,California,Clarksburg,Virginie Boone,Chenin Blanc-Viognier,0,1,0,0,0,1,2011.0,1
+US,86,16.0,New York,Hudson River Region,Anna Lee C. Iijima,Chardonnay,0,0,0,0,0,0,2016.0,0
+Italy,86,40.0,Northeastern Italy,Venezia Giulia,Kerin O’Keefe,Red Blend,1,0,0,0,0,0,2008.0,1
+Chile,90,30.0,Maipo Valley,,Michael Schachner,Cabernet Sauvignon,0,0,0,0,1,0,2014.0,0
+Italy,87,24.0,Northeastern Italy,Trentino,Kerin O’Keefe,Pinot Nero,0,1,0,0,0,0,2012.0,0
+Italy,87,14.0,Northeastern Italy,Vigneti delle Dolomiti,Kerin O’Keefe,Red Blend,1,0,0,0,1,0,2013.0,1
+France,87,,Burgundy,Chablis,Roger Voss,Chardonnay,0,0,0,0,0,0,2005.0,0
+US,87,36.0,California,Temecula Valley,Matt Kettmann,Montepulciano,1,1,0,0,0,0,2011.0,0
+France,90,25.0,Loire Valley,Sancerre,Roger Voss,Sauvignon Blanc,0,0,0,0,0,0,2015.0,0
+New Zealand,91,39.0,Central Otago,,Joe Czerwinski,Pinot Gris,0,0,0,0,1,0,2014.0,0
+US,83,30.0,California,Amador County,Virginie Boone,Primitivo,0,0,0,0,0,0,2007.0,0
+France,87,,Languedoc-Roussillon,Limoux,,Chardonnay,0,0,0,0,0,0,2008.0,0
+US,83,35.0,California,California,,Zinfandel,0,0,0,0,0,0,2008.0,0
+Italy,85,35.0,Tuscany,Chianti Classico,Kerin O’Keefe,Red Blend,1,0,0,0,0,0,2013.0,1
+US,87,25.0,California,Livermore Valley,Virginie Boone,Red Blend,1,0,0,0,0,0,2011.0,1
+US,90,32.0,Washington,Yakima Valley,Paul Gregutt,Red Blend,0,0,0,0,0,0,2011.0,1
+England,92,50.0,England,,Anne Krebiehl MW,Sparkling Blend,0,0,0,0,0,0,2013.0,1
+US,93,55.0,California,Sonoma Coast,Virginie Boone,Chardonnay,0,0,0,0,0,0,2014.0,0
+Spain,90,80.0,Northern Spain,Ribera del Duero,Michael Schachner,Tempranillo,1,0,0,0,0,0,2006.0,0
+Spain,89,22.0,Northern Spain,Bierzo,Michael Schachner,Mencía,0,0,0,0,1,0,2008.0,0
+Chile,89,25.0,Casablanca Valley,,Michael Schachner,Syrah,0,0,0,0,0,0,2010.0,0
+Slovenia,89,22.0,Goriska Brda,,Jeff Jenssen,Ribolla Gialla,0,0,0,0,0,0,2014.0,0
+US,88,25.0,California,Santa Ynez Valley,Matt Kettmann,Rhône-style Red Blend,1,0,0,0,1,0,2014.0,1
+Italy,82,16.0,Tuscany,Chianti Classico,,Sangiovese,0,0,0,0,0,0,1998.0,0
+US,87,15.0,Oregon,Willamette Valley,Paul Gregutt,Pinot Blanc,0,1,0,0,0,0,2007.0,0
+Austria,92,36.0,Weinland Österreich,,Anne Krebiehl MW,Riesling,0,0,0,0,0,1,2016.0,0
+US,89,20.0,Oregon,Willamette Valley,Paul Gregutt,Pinot Gris,0,0,1,0,0,0,2015.0,0
+Portugal,86,,Alentejano,,Roger Voss,Aragonês,1,0,0,0,0,0,2007.0,0
+Germany,90,70.0,Mosel,,Anna Lee C. Iijima,Riesling,0,0,0,0,0,1,2012.0,0
+Spain,88,25.0,Galicia,Rías Baixas,Michael Schachner,Albariño,0,0,0,0,0,0,2010.0,0
+France,87,,Loire Valley,Sancerre,Roger Voss,Sauvignon Blanc,0,0,0,0,0,0,2013.0,0
+US,86,30.0,California,Oakville,Virginie Boone,Merlot,0,0,0,0,0,0,2011.0,0
+Italy,90,40.0,Sicily & Sardinia,Isola dei Nuraghi,Kerin O’Keefe,Red Blend,1,0,0,0,0,0,2012.0,1
+Austria,88,17.0,Niederösterreich,,Roger Voss,Grüner Veltliner,1,0,0,0,0,0,2011.0,0
+Israel,87,24.0,Judean Hills,,Lauren Buzzeo,Merlot,1,0,0,0,0,1,2004.0,0
+Italy,87,14.0,Veneto,Prosecco,Kerin O’Keefe,Glera,0,1,0,0,0,0,,0
+France,85,14.0,Bordeaux,Côtes de Bordeaux,Roger Voss,Bordeaux-style Red Blend,1,0,0,0,0,0,2013.0,1
+Argentina,89,20.0,Mendoza Province,Perdriel,Michael Schachner,Malbec,1,0,0,0,0,0,2006.0,0
+France,90,22.0,Alsace,Alsace,Roger Voss,Riesling,0,0,0,0,1,0,2012.0,0
+Portugal,89,,Douro,,Roger Voss,Portuguese Red,1,0,0,0,1,0,2009.0,0
+Portugal,91,40.0,Douro,,Roger Voss,Portuguese Red,1,0,0,0,0,0,2011.0,0
+Spain,84,9.0,Northern Spain,Navarra,Michael Schachner,White Blend,0,0,0,0,0,0,2014.0,1
+US,88,30.0,Washington,Columbia Valley (WA),Paul Gregutt,Cabernet Sauvignon,1,0,0,0,0,0,2009.0,0
+Australia,92,50.0,South Australia,Clarendon,Joe Czerwinski,Cabernet Sauvignon,0,0,0,0,0,0,2008.0,0
+US,90,30.0,Washington,Columbia Valley (WA),Paul Gregutt,Cabernet Sauvignon,0,0,0,0,0,0,2009.0,0
+Spain,89,53.0,Spanish Islands,Vi de la Terra Illes Balears,Michael Schachner,Red Blend,0,0,0,0,0,0,2004.0,1
+Chile,85,23.0,Elqui Valley,,Michael Schachner,Carmenère,1,0,0,0,0,0,2013.0,0
+Argentina,88,33.0,Mendoza Province,,Michael Schachner,Malbec,0,0,0,0,1,0,2012.0,0
+France,90,20.0,Provence,Côtes de Provence,Roger Voss,Rosé,0,0,0,0,1,0,2014.0,0
+US,84,25.0,California,Carneros,,Chardonnay,0,0,0,0,0,1,2009.0,0
+US,88,36.0,Washington,Columbia Valley (WA),Sean P. Sullivan,Syrah,1,0,0,0,0,0,2014.0,0
+Italy,85,,Piedmont,Roero Arneis,,Arneis,0,1,0,0,0,0,2008.0,0
+US,90,22.0,California,Clarksburg,Jim Gordon,Gewürztraminer,0,1,0,0,1,0,2016.0,0
+Italy,85,,Tuscany,Brunello di Montalcino,,Sangiovese Grosso,0,0,0,0,0,1,2003.0,0
+US,91,30.0,California,Russian River Valley,,Sauvignon Blanc,1,1,0,0,0,0,2010.0,0
+US,94,44.0,California,Santa Lucia Highlands,Matt Kettmann,Pinot Noir,1,0,1,0,1,0,2014.0,0
+US,87,24.0,California,Napa Valley,Virginie Boone,Sauvignon Blanc,0,1,0,0,0,0,2013.0,0
+US,92,45.0,Oregon,Dundee Hills,Paul Gregutt,Pinot Gris,0,0,0,0,0,0,2012.0,0
+Italy,86,20.0,Veneto,Prosecco di Conegliano,,Prosecco,0,0,0,0,0,0,,0
+Italy,87,,Tuscany,Chianti,Kerin O’Keefe,Sangiovese,1,0,0,0,0,0,2012.0,0
+US,84,24.0,California,Paso Robles,,Rhône-style White Blend,0,0,0,0,0,1,2011.0,1
+France,89,,Champagne,Champagne,Roger Voss,Champagne Blend,0,1,0,0,1,0,2009.0,1
+Germany,87,12.0,Mosel,,Anna Lee C. Iijima,Riesling,0,0,0,0,0,1,2016.0,0
+US,84,8.0,California,California,,Cabernet Sauvignon,0,0,0,0,1,0,2007.0,0
+Italy,89,30.0,Piedmont,Barbaresco,Kerin O’Keefe,Nebbiolo,1,0,0,0,0,0,2011.0,0
+US,90,28.0,California,Santa Ynez Valley,Matt Kettmann,Cabernet Sauvignon,1,0,0,0,0,0,2012.0,0
+Italy,91,27.0,Tuscany,Chianti Classico,,Sangiovese,1,0,0,0,0,0,2006.0,0
+France,86,15.0,Languedoc-Roussillon,Pays d'Oc,Lauren Buzzeo,Rosé,0,1,1,0,0,0,2010.0,0
+France,84,12.0,France Other,Vin de France,Roger Voss,Pinot Noir,0,0,0,0,0,0,2010.0,0
+France,87,25.0,Bordeaux,Bordeaux Blanc,Roger Voss,Bordeaux-style White Blend,0,0,0,0,0,0,2012.0,1
+US,86,30.0,California,Marin County,Jim Gordon,Riesling,0,0,0,0,1,0,2014.0,0
+US,86,40.0,California,Happy Canyon of Santa Barbara,,Merlot-Cabernet Franc,0,0,0,0,0,0,2010.0,1
+Austria,93,32.0,Kremstal,,Roger Voss,Riesling,0,0,0,0,0,0,2010.0,0
+US,88,11.0,America,,Sean P. Sullivan,Cabernet Sauvignon,0,0,0,0,0,0,2015.0,0
+US,90,19.0,California,Yolo County,Virginie Boone,Rhône-style White Blend,0,1,0,0,1,0,2013.0,1
+US,87,36.0,Oregon,Willamette Valley,Paul Gregutt,Pinot Noir,0,0,0,0,0,0,2009.0,0
+Argentina,81,11.0,Mendoza Province,Mendoza,Michael Schachner,Moscatel,0,0,0,0,0,0,2015.0,0
+Italy,87,18.0,Lombardy,Curtefranca,,Red Blend,1,0,0,0,1,0,2008.0,1
+Italy,89,55.0,Tuscany,Toscana,,Red Blend,0,0,0,0,0,0,2010.0,1
+US,91,90.0,Oregon,Oregon,Paul Gregutt,Pinot Noir,1,0,0,0,0,0,2015.0,0
+US,90,28.0,Washington,Wahluke Slope,Paul Gregutt,Cabernet Franc,0,0,0,0,0,0,2010.0,0
+Argentina,87,24.0,Mendoza Province,Mendoza,Michael Schachner,Cabernet Sauvignon,1,0,0,0,0,1,2008.0,0
+US,85,60.0,California,Carneros,Virginie Boone,Pinot Noir,1,0,0,0,1,0,2013.0,0
+US,91,50.0,Oregon,Oregon,Paul Gregutt,Sparkling Blend,0,0,0,0,0,0,2011.0,1
+Italy,88,13.0,Tuscany,Maremma,Kerin O’Keefe,Red Blend,1,1,0,0,0,0,2015.0,1
+US,88,27.0,Oregon,Rogue Valley,Paul Gregutt,Viognier,0,0,0,0,0,0,2014.0,0
+Bulgaria,84,16.0,Thracian Valley,,Anna Lee C. Iijima,Mavrud,1,0,0,0,0,0,2007.0,0
+US,90,27.0,Oregon,Chehalem Mountains,Paul Gregutt,Chardonnay,0,0,0,0,0,0,2009.0,0
+Italy,89,13.0,Piedmont,Monferrato,,White Blend,0,1,0,0,0,0,2010.0,1
+US,92,48.0,California,Santa Barbara County,Matt Kettmann,Syrah,1,0,0,0,0,0,2014.0,0
+Italy,94,80.0,Tuscany,Brunello di Montalcino,Kerin O’Keefe,Sangiovese,1,0,0,0,0,0,2012.0,0
+Portugal,94,35.0,Dão,,Roger Voss,Portuguese Red,1,0,0,0,0,0,2008.0,0
+Portugal,90,,Alentejo,,Roger Voss,Portuguese Red,0,0,0,0,0,1,2008.0,0
+US,81,37.0,California,Paso Robles,,Rhône-style Red Blend,0,0,0,0,0,1,2010.0,1
+US,94,65.0,California,Paso Robles,Matt Kettmann,Cabernet Sauvignon,1,0,0,0,1,0,2013.0,0
+US,87,20.0,California,North Coast,,Sauvignon Blanc,0,1,0,0,1,0,2009.0,0
+France,87,21.0,Burgundy,Irancy,Roger Voss,Red Blend,1,0,0,0,0,0,2014.0,1
+US,96,100.0,Oregon,Willamette Valley,Paul Gregutt,Pinot Noir,0,0,0,0,0,0,2013.0,0
+US,92,48.0,California,Arroyo Grande Valley,Matt Kettmann,Chardonnay,0,0,0,0,0,0,2014.0,0
+France,86,18.0,Burgundy,Bourgogne,Roger Voss,Chardonnay,0,0,0,0,0,0,2010.0,0
+US,89,60.0,California,Temecula Valley,Matt Kettmann,Cabernet Sauvignon,1,0,0,0,0,0,2014.0,0
+Italy,85,,Piedmont,Barbera d'Asti Superiore,,Barbera,0,1,0,0,0,0,2007.0,0
+Italy,90,,Piedmont,Barolo,,Nebbiolo,0,0,0,0,0,0,2005.0,0
+US,87,25.0,California,Sierra Foothills,Virginie Boone,Zinfandel,0,0,0,0,0,0,2009.0,0
+US,86,16.0,Oregon,Umpqua Valley,Paul Gregutt,Pinot Gris,0,0,0,0,0,0,2015.0,0
+France,92,85.0,Burgundy,Gevrey-Chambertin,Roger Voss,Pinot Noir,1,0,0,0,0,0,2014.0,0
+US,85,45.0,California,Carneros,,Pinot Noir,0,0,0,0,0,0,2011.0,0
+France,91,20.0,Alsace,Alsace,Anne Krebiehl MW,Pinot Gris,0,0,0,0,0,0,2015.0,0
+France,87,,Bordeaux,Bordeaux Blanc,Roger Voss,Bordeaux-style White Blend,0,0,0,0,0,0,2011.0,1
+US,86,49.0,California,Sonoma Coast,,Pinot Noir,0,0,0,0,0,0,2010.0,0
+Spain,83,15.0,Northern Spain,Rioja,Michael Schachner,Viura,0,0,0,0,0,0,2009.0,0
+US,88,25.0,California,North Coast,Jim Gordon,Red Blend,0,0,0,0,0,0,0.0,1
+US,85,20.0,Virginia,Virginia,Anna Lee C. Iijima,White Blend,0,1,0,0,1,0,2008.0,1
+France,88,23.0,Burgundy,Rully,Roger Voss,Pinot Noir,1,0,0,0,0,0,2013.0,0
+Italy,91,37.0,Sicily & Sardinia,Malvasia delle Lipari,Kerin O’Keefe,White Blend,0,0,0,0,1,1,2012.0,1
+Italy,87,40.0,Tuscany,Rosso di Montalcino,Kerin O’Keefe,Sangiovese,1,0,0,0,0,1,2012.0,0
+France,88,23.0,Rhône Valley,Châteauneuf-du-Pape,,Rhône-style Red Blend,0,0,0,0,0,0,1998.0,1
+US,92,75.0,California,Napa Valley,,Cabernet Sauvignon,0,0,0,0,1,1,2005.0,0
+US,87,17.0,California,Santa Barbara County,,Orange Muscat,0,0,0,0,1,0,2012.0,0
+US,89,20.0,California,San Benito County,Matt Kettmann,Pinot Noir,1,0,0,0,0,0,2016.0,0
+Portugal,88,17.0,Bucelas,,Roger Voss,Arinto,0,0,0,0,0,0,2013.0,0
+US,91,95.0,California,Diamond Mountain District,Virginie Boone,Cabernet Sauvignon,1,0,0,0,0,0,2014.0,0
+Argentina,83,12.0,Mendoza Province,Mendoza,Michael Schachner,Cabernet Sauvignon,0,0,0,0,0,1,2008.0,0
+Austria,94,55.0,Wachau,,Anne Krebiehl MW,Grüner Veltliner,0,1,0,0,0,0,2014.0,0
+France,84,18.0,Bordeaux,Bordeaux,Roger Voss,Bordeaux-style Red Blend,1,0,0,0,0,0,2012.0,1
+Portugal,87,13.0,Vinho Verde,,Roger Voss,Arinto,1,0,0,0,1,0,2013.0,0
+Australia,89,20.0,South Australia,Coonawarra,Joe Czerwinski,Cabernet Sauvignon,0,0,0,0,0,0,2009.0,0
+US,88,29.0,California,Napa Valley,Virginie Boone,Cabernet Sauvignon,1,0,0,0,0,0,2013.0,0
+Spain,92,50.0,Northern Spain,Rioja,Michael Schachner,Tempranillo,1,0,0,0,0,0,2004.0,0
+US,84,18.0,California,Lodi,Jim Gordon,Red Blend,0,0,0,0,1,0,2011.0,1
+US,87,20.0,Washington,Columbia Valley (WA),Paul Gregutt,Sauvignon Blanc,0,1,0,0,0,0,2011.0,0
+Spain,83,20.0,Levante,Alicante,Michael Schachner,Moscatel,0,0,0,0,0,0,2011.0,0
+France,94,65.0,Alsace,Alsace,Anne Krebiehl MW,Gewürztraminer,0,0,0,0,0,0,2013.0,0
+Portugal,93,80.0,Port,,Roger Voss,Port,0,0,0,0,0,0,2013.0,0
+South Africa,87,12.0,Stellenbosch,,Lauren Buzzeo,Chardonnay,0,0,1,0,0,0,2011.0,0
+US,89,13.0,California,Amador County,Jim Gordon,Rosé,0,1,0,0,0,0,2016.0,0
+US,90,24.0,Washington,Columbia Valley (WA),Paul Gregutt,Syrah,0,0,0,0,0,0,2008.0,0
+France,94,,Bordeaux,Sauternes,Roger Voss,Bordeaux-style White Blend,0,0,0,0,1,0,2006.0,1
+US,90,38.0,California,Santa Lucia Highlands,Matt Kettmann,Pinot Noir,1,0,0,0,1,0,2013.0,0
+US,87,45.0,California,Napa Valley,,Red Blend,1,0,0,0,0,0,2009.0,1
+Italy,90,,Lombardy,Franciacorta,Kerin O’Keefe,Sparkling Blend,0,0,0,1,1,0,2007.0,1
+US,93,55.0,Washington,Columbia Valley (WA),Paul Gregutt,Cabernet Sauvignon,0,0,0,0,0,0,1997.0,0
+Spain,94,100.0,Central Spain,Dominio de Valdepusa,Michael Schachner,Red Blend,1,0,0,0,0,0,2005.0,1
+Argentina,85,18.0,Other,Salta,Michael Schachner,Barbera,0,0,0,0,0,0,2009.0,0
+France,85,15.0,Burgundy,Mâcon-Villages,Roger Voss,Chardonnay,0,0,0,0,0,0,2013.0,0
+US,90,25.0,New York,Finger Lakes,Anna Lee C. Iijima,Riesling,0,0,0,0,0,0,2011.0,0
+US,80,11.0,California,California,,Zinfandel,0,0,0,0,1,0,2007.0,0
+Italy,87,20.0,Southern Italy,Puglia,Kerin O’Keefe,Uva di Troia,1,0,0,0,0,0,2013.0,0
+US,90,26.0,California,Sta. Rita Hills,Matt Kettmann,Chardonnay,0,0,0,0,0,0,2014.0,0
+US,88,32.0,California,Arroyo Seco,,Chardonnay,0,0,0,0,0,1,2011.0,0
+France,87,,Bordeaux,Castillon Côtes de Bordeaux,Roger Voss,Bordeaux-style Red Blend,1,0,0,0,0,0,2012.0,1
+France,85,13.0,Bordeaux,Bordeaux Blanc,Roger Voss,Bordeaux-style White Blend,0,0,0,0,0,0,2015.0,1
+France,89,16.0,Provence,Côtes de Provence,Roger Voss,Rosé,0,0,0,0,0,0,2015.0,0
+US,93,44.0,California,Fort Ross-Seaview,Virginie Boone,Chardonnay,0,0,0,0,0,0,2013.0,0
+US,88,28.0,Washington,Columbia Gorge (WA),Sean P. Sullivan,Gewürztraminer,0,0,0,0,0,0,2015.0,0
+US,87,19.0,California,Napa Valley,Virginie Boone,Chardonnay,0,0,0,0,0,0,2015.0,0
+Italy,85,100.0,Central Italy,Marche,,Montepulciano,0,0,0,0,0,1,2009.0,0
+US,94,50.0,California,Napa Valley,Virginie Boone,Cabernet Sauvignon,0,0,0,0,0,0,2013.0,0
+France,87,,Burgundy,Chablis,Roger Voss,Chardonnay,0,0,0,0,0,0,2010.0,0
+Italy,86,30.0,Tuscany,Chianti Classico,Kerin O’Keefe,Red Blend,1,0,0,0,0,0,2013.0,1
+US,92,40.0,California,Russian River Valley,,Pinot Noir,1,0,0,0,1,0,2007.0,0
+US,88,40.0,California,Napa Valley,Virginie Boone,Meritage,0,0,0,0,1,0,2012.0,0
+Spain,82,19.0,Northern Spain,Rioja,Michael Schachner,Tempranillo,0,0,0,0,0,0,2009.0,0
+France,82,12.0,Provence,Côtes de Provence,Roger Voss,Rosé,1,0,0,0,0,0,2012.0,0
+Chile,88,18.0,Maipo Valley,,Michael Schachner,Red Blend,0,0,0,0,0,0,2012.0,1
+US,93,45.0,California,Santa Cruz Mountains,Matt Kettmann,Cabernet Franc,0,0,0,0,0,0,2013.0,0
+US,94,70.0,California,Anderson Valley,,Sparkling Blend,1,0,1,1,1,0,2003.0,1
+US,91,30.0,California,Santa Ynez Valley,Matt Kettmann,Syrah,1,0,0,0,0,0,2010.0,0
+US,88,70.0,California,Napa Valley,,Cabernet Sauvignon,1,0,0,0,0,0,2007.0,0
+US,86,30.0,Washington,Columbia Valley (WA),Paul Gregutt,Mourvèdre,1,0,0,0,0,1,2008.0,0
+Portugal,91,28.0,Port,,Roger Voss,Port,0,0,0,0,1,0,2012.0,0
+US,87,22.0,California,Sonoma Valley,,Marsanne,0,0,0,0,0,1,2010.0,0
+US,92,36.0,California,Russian River Valley,,Chardonnay,0,0,0,0,1,1,2011.0,0
+US,92,35.0,California,Rockpile,Virginie Boone,Zinfandel,0,0,0,0,0,0,2013.0,0
+US,88,17.0,Washington,Columbia Valley (WA),Paul Gregutt,Merlot,0,0,0,0,0,0,2008.0,0
+France,88,100.0,Champagne,Champagne,Roger Voss,Champagne Blend,0,0,0,0,1,0,,1
+US,88,10.0,California,California,Jim Gordon,Cabernet Sauvignon,0,0,0,0,0,0,2014.0,0
+Portugal,88,60.0,Port,,Roger Voss,Port,0,0,0,0,0,1,2009.0,0
+Germany,87,17.0,Mosel,,Anna Lee C. Iijima,Riesling,0,0,0,0,1,0,2013.0,0
+US,87,25.0,New York,Finger Lakes,Anna Lee C. Iijima,Vidal Blanc,1,1,0,0,0,1,2010.0,0
+Germany,90,48.0,Mosel,,Anna Lee C. Iijima,Riesling,0,0,0,0,1,0,2014.0,0
+US,92,42.0,California,Santa Barbara County,,Pinot Noir,0,0,0,0,0,0,2009.0,0
+US,92,50.0,California,Amador County,Jim Gordon,Zinfandel,0,0,0,0,0,0,2014.0,0
+France,88,,Bordeaux,Saint-Émilion,Roger Voss,Bordeaux-style Red Blend,1,0,0,0,0,1,2008.0,1
+Italy,90,55.0,Tuscany,Brunello di Montalcino,Kerin O’Keefe,Sangiovese,1,1,1,0,0,0,2010.0,0
+Italy,88,17.0,Tuscany,Maremma Toscana,,Red Blend,0,0,0,0,0,0,2009.0,1
+US,94,100.0,California,Sonoma Valley,,Cabernet Sauvignon,0,0,0,0,0,0,2007.0,0
+Italy,87,17.0,Tuscany,Toscana,Kerin O’Keefe,Red Blend,1,0,0,0,0,0,2013.0,1
+Spain,82,18.0,Northern Spain,Getariako Txakolina,Michael Schachner,Rosé,0,0,0,0,0,0,2015.0,0
+US,86,35.0,California,Calistoga,Virginie Boone,Merlot,0,0,0,0,0,0,2012.0,0
+US,89,25.0,California,Santa Ynez Valley,Matt Kettmann,Cabernet Sauvignon,0,0,0,0,0,0,2014.0,0
+Spain,89,17.0,Northern Spain,Rueda,Michael Schachner,Verdejo,0,1,0,0,0,0,2015.0,0
+France,90,13.0,Alsace,Alsace,Anne Krebiehl MW,Riesling,0,0,0,0,1,0,2015.0,0
+US,88,35.0,California,Alexander Valley,,Zinfandel,0,0,0,0,0,0,2009.0,0
+Israel,86,23.0,Galilee,,Lauren Buzzeo,Red Blend,1,0,0,0,0,0,2005.0,1
+Italy,91,40.0,Piedmont,Barolo,Kerin O’Keefe,Nebbiolo,0,0,0,0,0,0,2009.0,0
+Portugal,87,,Lisboa,,Roger Voss,Portuguese Red,1,0,0,0,0,0,2012.0,0
+Italy,88,51.0,Tuscany,Vino Nobile di Montepulciano,Kerin O’Keefe,Red Blend,0,0,0,0,0,0,2012.0,1
+France,88,20.0,Burgundy,Chablis,Roger Voss,Chardonnay,0,0,0,0,0,0,2010.0,0
+Spain,90,17.0,Galicia,Rías Baixas,Michael Schachner,Albariño,0,0,0,0,0,0,2007.0,0
+France,91,37.0,Bordeaux,Margaux,Roger Voss,Bordeaux-style Red Blend,0,0,0,0,0,0,2008.0,1
+Italy,89,24.0,Northeastern Italy,Collio,Kerin O’Keefe,Pinot Grigio,0,1,0,0,0,0,2015.0,0
+US,85,18.0,California,Livermore Valley,Virginie Boone,Cabernet Sauvignon,0,0,0,0,0,0,2009.0,0
+US,90,48.0,Washington,Red Mountain,Sean P. Sullivan,Bordeaux-style Red Blend,1,0,0,0,0,1,2012.0,1
+Italy,89,25.0,Veneto,Valpolicella Classico Superiore Ripasso,Kerin O’Keefe,Red Blend,1,0,0,0,0,0,2010.0,1
+Spain,91,30.0,Levante,Alicante,Michael Schachner,Monastrell,0,0,0,0,0,0,2007.0,0
+Spain,85,13.0,Northern Spain,Somontano,Michael Schachner,Chardonnay,0,0,0,0,0,0,2013.0,0
+Chile,89,14.0,Colchagua Valley,,Michael Schachner,Cabernet Franc,0,0,0,0,0,0,2011.0,0
+Italy,90,40.0,Piedmont,Barolo,Kerin O’Keefe,Nebbiolo,1,0,0,0,0,0,2011.0,0
+US,89,24.0,Washington,Columbia Valley (WA),Paul Gregutt,Syrah,1,0,0,0,0,0,2005.0,0
+US,93,55.0,Washington,Columbia Valley (WA),Sean P. Sullivan,Cabernet Sauvignon,1,0,0,0,0,0,2013.0,0
+Germany,87,40.0,Württemberg,,Joe Czerwinski,Riesling,0,0,0,0,1,0,2006.0,0
+US,94,55.0,California,Carmel Valley,Matt Kettmann,Chardonnay,0,0,0,0,0,0,2014.0,0
+US,86,46.0,California,Livermore Valley,Jim Gordon,Bordeaux-style Red Blend,0,0,0,0,0,0,2014.0,1
+US,87,28.0,California,Napa Valley,,Chardonnay,0,0,0,0,0,1,2012.0,0
+France,94,185.0,Burgundy,Puligny-Montrachet,Roger Voss,Chardonnay,0,1,0,0,0,0,2014.0,0
+US,87,16.0,California,Russian River Valley,,Sparkling Blend,1,0,0,1,0,1,2009.0,1
+US,93,38.0,California,Sonoma Coast,Virginie Boone,Chardonnay,0,0,0,0,0,0,2012.0,0
+France,86,12.0,Bordeaux,Bordeaux Blanc,Roger Voss,Bordeaux-style White Blend,0,1,0,0,0,0,2014.0,1
+Argentina,87,18.0,Mendoza Province,Tupungato,Michael Schachner,Chardonnay,0,0,0,0,0,0,2016.0,0
+Italy,85,10.0,Tuscany,Chianti,Kerin O’Keefe,Red Blend,1,0,0,0,0,0,2013.0,1
+Chile,89,35.0,Chile,,Michael Schachner,Red Blend,1,0,0,0,0,0,2010.0,1
+Argentina,86,12.0,Mendoza Province,,Michael Schachner,Torrontés,0,0,0,0,0,0,2015.0,0
+Italy,88,38.0,Central Italy,Sangiovese di Romagna Superiore,,Sangiovese,1,0,0,0,0,0,2008.0,0
+US,88,22.0,California,Sierra Foothills,Virginie Boone,White Blend,0,0,0,0,0,0,2011.0,1
+Austria,90,25.0,Kremstal,,Anne Krebiehl MW,Riesling,0,0,0,0,0,0,2013.0,0
+South Africa,85,10.0,Coastal Region,,Susan Kostrzewa,Sauvignon Blanc,0,0,0,0,0,0,2007.0,0
+Italy,86,,Sicily & Sardinia,Sicilia,,Sauvignon Blanc,0,1,1,0,0,0,2009.0,0
+US,88,26.0,Washington,Wahluke Slope,Sean P. Sullivan,Malbec,0,0,0,0,0,0,2014.0,0
+US,93,59.0,California,Dry Creek Valley,Jim Gordon,Zinfandel,1,0,0,0,0,0,2012.0,0
+Chile,83,10.0,Maule Valley,,Michael Schachner,Carmenère,0,0,0,0,0,0,2010.0,0
+US,91,36.0,California,Russian River Valley,Virginie Boone,Chardonnay,0,0,0,0,1,0,2013.0,0
+US,89,40.0,California,Mount Veeder,,Zinfandel,1,0,0,0,0,1,2009.0,0
+Italy,86,31.0,Lombardy,Lugana,Kerin O’Keefe,Turbiana,0,0,0,0,0,0,2010.0,0
+Italy,87,16.0,Central Italy,Verdicchio dei Castelli di Jesi Classico,Kerin O’Keefe,Verdicchio,0,1,0,0,0,0,2014.0,0
+France,91,25.0,Bordeaux,Blaye Côtes de Bordeaux,Roger Voss,Bordeaux-style Red Blend,1,0,0,0,0,0,2010.0,1
+Italy,93,65.0,Sicily & Sardinia,Alghero,Kerin O’Keefe,Cabernet Sauvignon,1,0,0,0,0,1,2010.0,0
+France,91,22.0,Loire Valley,Pouilly-Fumé,Roger Voss,Sauvignon Blanc,0,0,0,0,0,0,2015.0,0
+Italy,93,60.0,Veneto,Amarone della Valpolicella Classico,,"Corvina, Rondinella, Molinara",1,0,0,0,0,0,2007.0,0
+US,91,28.0,California,Santa Maria Valley,,Pinot Noir,0,0,0,0,0,0,2000.0,0
+France,88,,Bordeaux,Lalande de Pomerol,Roger Voss,Bordeaux-style Red Blend,1,0,0,0,0,0,2010.0,1
+US,88,65.0,California,Napa Valley,,Cabernet Sauvignon,1,0,0,0,0,1,2009.0,0
+US,85,14.0,California,Santa Barbara County,,Sauvignon Blanc,0,1,0,0,0,0,2011.0,0
+US,92,18.0,Washington,Columbia Valley (WA),Paul Gregutt,Riesling,0,0,0,0,1,0,2009.0,0
+France,90,20.0,Rhône Valley,,Joe Czerwinski,Rhône-style Red Blend,0,0,0,0,0,0,2014.0,1
+France,92,19.0,Alsace,Crémant d'Alsace,Anne Krebiehl MW,Sparkling Blend,0,0,0,0,1,0,2015.0,1
+US,90,28.0,California,Amador County,Virginie Boone,Barbera,0,0,0,0,0,0,2008.0,0
+US,91,42.0,California,Russian River Valley,Virginie Boone,Pinot Noir,1,0,0,0,0,0,2013.0,0
+France,87,,Alsace,Crémant d'Alsace,Roger Voss,Sparkling Blend,0,0,0,0,0,0,,1
+France,94,,Burgundy,Corton Vergennes,Roger Voss,Pinot Noir,1,0,0,0,0,0,2015.0,0
+Chile,86,15.0,Colchagua Valley,,Michael Schachner,Cabernet Sauvignon,0,0,0,0,0,0,2015.0,0
+Italy,86,11.0,Sicily & Sardinia,Sicilia,,White Blend,0,0,0,0,0,0,2007.0,1
+Argentina,89,29.0,Mendoza Province,Uco Valley,Michael Schachner,Sauvignon Blanc,0,1,0,0,0,0,2010.0,0
+US,94,50.0,Washington,Walla Walla Valley (WA),Paul Gregutt,Bordeaux-style Red Blend,1,0,0,0,0,0,0.0,1
+Chile,88,19.0,Maipo Valley,,Michael Schachner,Carmenère,1,0,0,0,0,0,2014.0,0
+US,85,14.0,California,Sonoma County,,Red Blend,1,0,0,0,1,0,2008.0,1
+Italy,89,22.0,Sicily & Sardinia,Terre Siciliane,Kerin O’Keefe,Nero d'Avola,1,0,0,0,0,0,2014.0,0
+Italy,93,55.0,Piedmont,Barolo,,Nebbiolo,1,0,1,0,0,0,2007.0,0
+US,83,18.0,California,Lodi,Virginie Boone,Merlot,0,0,0,0,0,0,2012.0,0
+Argentina,88,30.0,Mendoza Province,Mendoza,Michael Schachner,Malbec,1,0,0,0,0,0,2008.0,0
+France,90,,Bordeaux,Margaux,Roger Voss,Bordeaux-style Red Blend,0,0,0,0,0,0,2012.0,1
+France,93,50.0,Bordeaux,Saint-Émilion,Roger Voss,Bordeaux-style Red Blend,1,0,0,0,0,0,2014.0,1
+US,87,13.0,California,Sonoma County,,White Blend,0,1,0,0,0,1,2012.0,1
+Austria,89,19.0,Niederösterreich,,Roger Voss,Grüner Veltliner,0,0,0,0,1,0,2011.0,0
+US,91,38.0,California,Chalone,Matt Kettmann,Chardonnay,0,1,0,0,0,0,2013.0,0
+US,88,34.0,California,Paso Robles,,Grenache,1,1,0,0,0,0,2009.0,0
+US,92,50.0,Oregon,Willamette Valley,Paul Gregutt,Pinot Noir,0,0,0,0,0,0,2013.0,0
+France,94,90.0,Burgundy,Corton,Roger Voss,Pinot Noir,1,0,0,0,0,0,2011.0,0
+France,88,20.0,Alsace,Crémant d'Alsace,Roger Voss,Pinot Gris,0,0,0,0,1,0,,0
+Chile,89,40.0,Maipo Valley,,Michael Schachner,Red Blend,1,0,0,0,0,0,2009.0,1
+US,87,15.0,California,North Coast,Virginie Boone,Cabernet Sauvignon,0,0,0,0,0,0,2011.0,0
+US,91,32.0,Washington,Wahluke Slope,Sean P. Sullivan,Red Blend,1,0,0,0,0,0,2012.0,1
+US,91,32.0,California,St. Helena,Virginie Boone,Sauvignon Blanc,0,1,0,0,0,0,2016.0,0
+France,84,12.0,Bordeaux,Bordeaux,Roger Voss,Bordeaux-style Red Blend,1,0,0,0,0,0,2011.0,1
+Italy,84,12.0,Central Italy,Umbria,,Red Blend,0,0,0,0,0,0,2006.0,1
+Argentina,88,15.0,Other,Salta,Michael Schachner,Torrontés,0,0,0,0,0,0,2014.0,0
+Italy,87,16.0,Piedmont,Nebbiolo d'Alba,,Nebbiolo,0,1,0,0,0,0,2007.0,0
+Chile,88,20.0,Maule Valley,,Michael Schachner,Carmenère,1,0,0,0,0,0,2010.0,0
+France,86,14.0,Alsace,Alsace,Roger Voss,Pinot Blanc,0,0,0,0,1,0,2010.0,0
+US,84,25.0,Oregon,Rogue Valley,Paul Gregutt,Cabernet Franc,1,0,0,0,0,1,1999.0,0
+Spain,89,50.0,Northern Spain,Bierzo,Michael Schachner,Mencía,1,0,0,0,1,0,2007.0,0
+US,89,11.0,Washington,Columbia Valley (WA),Paul Gregutt,Merlot,0,0,0,0,0,0,2006.0,0
+Italy,87,19.0,Veneto,Conegliano Valdobbiadene Prosecco Superiore,,Glera,0,0,0,1,0,0,,0
+Chile,83,25.0,Casablanca Valley,,Michael Schachner,Cabernet Franc,1,0,0,0,0,0,2012.0,0
+France,87,14.0,France Other,Vin de France,Roger Voss,Pinot Noir,1,0,0,0,0,0,2016.0,0
+US,90,32.0,California,Santa Ynez Valley,,Syrah,0,0,0,0,0,1,2007.0,0
+Italy,90,37.0,Southern Italy,Greco di Tufo,Kerin O’Keefe,Greco,0,1,0,0,0,0,2012.0,0
+US,85,30.0,California,Santa Barbara County,Matt Kettmann,Cabernet Sauvignon-Syrah,1,0,0,0,0,0,2012.0,1
+US,89,14.0,Oregon,Willamette Valley,Paul Gregutt,Pinot Noir,1,0,0,0,0,0,2012.0,0
+France,89,20.0,Loire Valley,Menetou-Salon,Roger Voss,Sauvignon Blanc,0,0,0,0,0,0,2013.0,0
+Chile,90,40.0,Leyda Valley,,Michael Schachner,Pinot Noir,0,0,0,0,0,0,2013.0,0
+Austria,91,34.0,Burgenland,,Roger Voss,Blaufränkisch,0,0,0,0,0,1,2011.0,0
+Argentina,91,86.0,Mendoza Province,Luján de Cuyo,Michael Schachner,Malbec,0,0,0,0,0,0,2006.0,0
+US,87,14.0,Washington,Columbia Valley (WA),Sean P. Sullivan,Merlot,1,0,0,0,0,0,2014.0,0
+US,84,18.0,California,Sonoma Coast,Virginie Boone,Syrah,1,0,0,0,0,0,2013.0,0
+Italy,90,,Tuscany,Brunello di Montalcino,,Sangiovese Grosso,0,0,0,0,0,0,2004.0,0
+Spain,87,10.0,Northern Spain,Rueda,Michael Schachner,Verdejo-Viura,0,1,0,0,0,1,2010.0,1
+Portugal,91,,Vinho Verde,,Roger Voss,Portuguese White,0,0,0,0,0,0,2014.0,0
+Germany,90,,Mosel,,Anna Lee C. Iijima,Riesling,0,0,0,0,0,0,2014.0,0
+US,90,100.0,California,Calistoga,Virginie Boone,Red Blend,0,0,0,0,0,0,2013.0,1
+Italy,92,61.0,Northeastern Italy,Vigneti delle Dolomiti,,Red Blend,0,0,0,0,0,0,2004.0,1
+US,91,32.0,Washington,Walla Walla Valley (WA),Sean P. Sullivan,Bordeaux-style Red Blend,0,0,0,0,1,0,2010.0,1
+US,90,39.0,California,Santa Cruz Mountains,Matt Kettmann,Pinot Noir,1,0,0,0,0,0,2012.0,0
+US,94,65.0,California,Howell Mountain,,Cabernet Sauvignon,0,0,0,0,1,0,2008.0,0
+US,92,30.0,California,Livermore Valley,Jim Gordon,Chardonnay,0,0,0,0,1,0,2012.0,0
+France,91,26.0,Loire Valley,Pouilly-Fumé,Roger Voss,Sauvignon Blanc,1,0,0,0,0,0,2010.0,0
+US,82,13.0,California,Mendocino County,Virginie Boone,Pinot Noir,1,0,0,0,0,0,2011.0,0
+US,90,15.0,Oregon,Willamette Valley,Paul Gregutt,Riesling,0,1,0,0,1,0,2014.0,0
+Austria,93,55.0,Vienna,,Anne Krebiehl MW,Austrian white blend,0,0,0,0,0,0,2014.0,0
+France,86,11.0,France Other,Vin de France,Roger Voss,White Blend,0,0,0,0,0,0,2015.0,1
+France,90,,Bordeaux,Saint-Estèphe,Roger Voss,Bordeaux-style Red Blend,0,0,0,0,0,1,2009.0,1
+US,84,18.0,Washington,Ancient Lakes,Sean P. Sullivan,Rosé,0,0,0,0,1,0,2014.0,0
+US,89,24.0,Oregon,Willamette Valley,Paul Gregutt,Pinot Noir,0,0,0,0,0,0,2013.0,0
+US,86,29.0,California,Alexander Valley,,Cabernet Sauvignon,1,0,0,0,0,0,2006.0,0
+US,89,25.0,Colorado,Grand Valley,,Cabernet Franc,0,0,0,0,0,0,2012.0,0
+US,87,29.0,New York,North Fork of Long Island,Anna Lee C. Iijima,Cabernet Franc,1,0,0,0,0,0,2013.0,0
+France,91,44.0,Rhône Valley,Saint-Joseph,Joe Czerwinski,Syrah,1,0,0,0,0,0,2013.0,0
+Chile,90,25.0,Casablanca Valley,,Michael Schachner,Sauvignon Blanc,0,0,0,0,0,0,2008.0,0
+France,90,,Burgundy,Pommard,Roger Voss,Pinot Noir,0,0,0,0,0,1,2008.0,0
+Italy,85,18.0,Veneto,Valpolicella Superiore,,"Corvina, Rondinella, Molinara",0,0,0,0,0,0,2010.0,0
+US,85,23.0,California,Santa Lucia Highlands,Matt Kettmann,Chardonnay,0,0,0,0,0,0,2014.0,0
+US,91,21.0,California,Lodi,Virginie Boone,Tempranillo,0,0,0,0,0,0,2008.0,0
+South Africa,84,8.0,Western Cape,,,Cabernet Sauvignon-Merlot,1,0,0,0,1,1,2002.0,1
+US,83,20.0,California,Nevada County,Jim Gordon,Sauvignon Blanc,0,0,0,0,1,0,2014.0,0
+US,87,10.0,California,Lodi,,Cabernet Sauvignon,0,0,0,0,1,0,1999.0,0
+France,87,,Bordeaux,Castillon Côtes de Bordeaux,Roger Voss,Bordeaux-style Red Blend,0,0,0,0,0,0,2011.0,1
+Germany,90,22.0,Mosel,,Joe Czerwinski,Riesling,0,0,0,0,0,1,2009.0,0
+Chile,90,18.0,Maule Valley,,Michael Schachner,Carignan,0,0,0,0,0,0,2015.0,0
+US,91,45.0,Washington,Columbia Valley (WA),Paul Gregutt,Cabernet Sauvignon,0,0,0,0,0,0,2010.0,0
+France,86,27.0,Alsace,Alsace,Roger Voss,Gewürztraminer,0,0,0,0,1,0,2012.0,0
+Australia,94,95.0,Victoria,Yarra Valley,Joe Czerwinski,Shiraz-Viognier,1,0,0,0,1,0,2008.0,1
+Spain,83,15.0,Central Spain,La Mancha,Michael Schachner,Tempranillo,0,0,0,0,0,0,2005.0,0
+France,88,36.0,Bordeaux,Pessac-Léognan,Roger Voss,Bordeaux-style Red Blend,0,0,0,0,0,0,2012.0,1
+France,87,9.0,Rhône Valley,Côtes-du-Ventoux,Joe Czerwinski,Rosé,0,0,1,0,0,0,2007.0,0
+France,88,38.0,Champagne,Champagne,Roger Voss,Chardonnay,0,0,0,0,0,0,,0
+France,92,23.0,Provence,Côtes de Provence Sainte-Victoire,Roger Voss,Rosé,0,0,0,0,0,0,2015.0,0
+Spain,87,11.0,Northern Spain,Rueda,Michael Schachner,Verdejo,0,0,0,0,0,0,2014.0,0
+France,82,,Alsace,Alsace,Roger Voss,Riesling,0,0,0,0,0,0,2010.0,0
+Italy,90,,Tuscany,Brunello di Montalcino,Kerin O’Keefe,Sangiovese,0,0,0,0,1,0,2011.0,0
+Spain,83,10.0,Northern Spain,Cariñena,Michael Schachner,Tempranillo-Garnacha,0,0,0,0,0,0,2009.0,1
+US,88,30.0,California,Rockpile,Virginie Boone,Zinfandel,1,0,0,0,0,0,2013.0,0
+US,90,30.0,California,Santa Barbara County,Matt Kettmann,Viognier,0,0,0,0,0,0,2014.0,0
+France,89,,Champagne,Champagne,Roger Voss,Champagne Blend,0,0,0,0,1,0,,1
+Austria,89,60.0,Burgenland,,Roger Voss,St. Laurent,1,0,0,0,0,0,2005.0,0
+Portugal,87,,Setubal,,Roger Voss,Portuguese White,0,0,0,0,0,0,2011.0,0
+US,88,65.0,California,Sonoma Valley,,Cabernet Sauvignon,1,0,0,0,1,0,2006.0,0
+France,91,,Champagne,Champagne,Roger Voss,Chardonnay,0,0,0,0,0,0,2001.0,0
+France,86,19.0,Loire Valley,Sancerre,,Sauvignon Blanc,0,0,0,0,0,0,2000.0,0
+US,88,35.0,Washington,Yakima Valley,Sean P. Sullivan,Cabernet Sauvignon,0,0,0,0,0,0,2013.0,0
+Chile,88,21.0,Casablanca Valley,,Michael Schachner,Chardonnay,0,0,0,0,0,0,2009.0,0
+US,87,40.0,California,Sonoma Coast,,Chardonnay,0,0,0,0,1,0,2008.0,0
+Italy,86,20.0,Veneto,Prosecco di Conegliano,,Prosecco,0,0,0,0,0,0,,0
+Italy,87,40.0,Tuscany,Toscana,,Red Blend,0,0,0,0,0,0,2004.0,1
+Italy,86,,Tuscany,Rosso di Montalcino,Kerin O’Keefe,Sangiovese,0,0,0,0,0,0,2012.0,0
+US,89,38.0,Oregon,Willamette Valley,Joe Czerwinski,Pinot Noir,0,0,0,0,1,0,1998.0,0
+US,91,50.0,California,Russian River Valley,,Pinot Noir,1,0,0,0,1,0,2007.0,0
+Spain,87,22.0,Catalonia,Montsant,Michael Schachner,Red Blend,0,0,0,0,0,0,2011.0,1
+Spain,89,18.0,Galicia,Rías Baixas,Michael Schachner,Albariño,0,1,0,0,1,0,2015.0,0
+Italy,90,20.0,Tuscany,Chianti Classico,Kerin O’Keefe,Red Blend,1,0,0,0,0,0,2013.0,1
+Austria,90,18.0,Weinviertel,,Anne Krebiehl MW,Grüner Veltliner,0,0,0,0,0,0,2015.0,0
+Italy,85,10.0,Tuscany,Carmignano,Michael Schachner,Sangiovese,0,0,0,0,0,0,2000.0,0
+France,85,11.0,Southwest France,Côtes de Gascogne,Roger Voss,White Blend,0,1,0,0,0,0,2014.0,1
+US,87,21.0,California,Russian River Valley,,Chardonnay,0,1,0,0,0,0,2000.0,0
+US,89,55.0,California,Napa Valley,,Cabernet Sauvignon,0,0,0,0,0,0,2007.0,0
+US,89,80.0,California,Santa Maria Valley,Matt Kettmann,Syrah,1,0,0,0,0,0,2014.0,0
+France,87,25.0,Bordeaux,Côtes de Bourg,Roger Voss,Bordeaux-style Red Blend,1,0,0,0,0,0,2010.0,1
+France,94,45.0,Bordeaux,Saint-Estèphe,Roger Voss,Bordeaux-style Red Blend,1,0,0,0,0,0,2009.0,1
+US,88,35.0,Washington,Wahluke Slope,Paul Gregutt,Cabernet Franc,0,0,0,0,0,0,2009.0,0
+Argentina,84,10.0,Mendoza Province,Mendoza,Michael Schachner,Cabernet Sauvignon,0,0,0,0,0,1,2007.0,0
+US,85,26.0,California,Paso Robles,,Petite Sirah,0,0,0,0,0,1,2009.0,0
+US,88,70.0,California,Sonoma Coast,,Pinot Noir,1,0,0,0,0,0,2010.0,0
+Italy,92,84.0,Piedmont,Barolo,,Nebbiolo,0,0,0,0,1,0,2006.0,0
+France,89,,Bordeaux,Fronsac,Roger Voss,Bordeaux-style Red Blend,0,0,0,0,0,0,2008.0,1
+Chile,86,13.0,Central Valley,,Michael Schachner,Rosé,0,0,1,0,1,0,2014.0,0
+US,91,25.0,California,Carneros,,Roussanne,0,1,0,0,1,0,2012.0,0
+US,91,35.0,California,Mendocino,Jim Gordon,Syrah,1,0,0,0,0,0,2011.0,0
+US,89,34.0,California,Mendocino County,Virginie Boone,Roussanne,0,0,0,0,0,0,2012.0,0
+Italy,89,29.0,Lombardy,Valtellina Superiore,Kerin O’Keefe,Nebbiolo,1,1,1,0,0,0,2013.0,0
+Italy,86,,Tuscany,Rosso di Montalcino,Kerin O’Keefe,Sangiovese,0,0,0,0,0,0,2014.0,0
+US,83,10.0,New York,North Fork of Long Island,Joe Czerwinski,Pinot Noir,1,0,1,0,0,0,,0
+US,83,11.0,California,California,Jim Gordon,Red Blend,0,0,0,0,0,1,2011.0,1
+Austria,92,25.0,Weinviertel,,Anne Krebiehl MW,Grüner Veltliner,0,0,0,0,0,0,2014.0,0
+US,91,18.0,Oregon,Rogue Valley,Paul Gregutt,Sauvignon Blanc,0,0,0,0,0,0,2013.0,0
+Portugal,88,24.0,Port,,Roger Voss,Port,0,0,0,0,0,0,,0
+Germany,93,60.0,Mosel,,Anna Lee C. Iijima,Riesling,0,0,0,0,0,1,2012.0,0
+US,85,22.0,Oregon,Willamette Valley,Paul Gregutt,Pinot Gris,0,0,0,0,0,0,2013.0,0
+US,90,25.0,Washington,Columbia Valley (WA),Paul Gregutt,Chardonnay,0,0,0,0,0,0,2006.0,0
+US,88,25.0,California,Sta. Rita Hills,Matt Kettmann,Pinot Noir,0,0,0,0,0,0,2013.0,0
+US,88,19.0,California,Santa Barbara County,,Pinot Grigio,0,0,0,0,1,0,2009.0,0
+US,89,60.0,California,Sonoma Coast,Jim Gordon,Pinot Noir,0,0,0,0,0,0,2013.0,0
+Austria,91,19.0,Südsteiermark,,Anne Krebiehl MW,Chardonnay,0,0,0,0,0,0,2015.0,0
+Portugal,89,20.0,Alentejano,,Roger Voss,Portuguese Red,0,0,0,0,0,0,2013.0,0
+Chile,88,175.0,Maipo Valley,,Michael Schachner,Cabernet Sauvignon,0,0,0,0,0,0,2010.0,0
+Italy,89,43.0,Piedmont,Barbaresco,Kerin O’Keefe,Nebbiolo,0,1,0,0,0,0,2012.0,0
+Italy,88,28.0,Northeastern Italy,Alto Adige,Kerin O’Keefe,Pinot Nero,1,0,0,0,1,0,2012.0,0
+US,87,10.0,California,California,Jim Gordon,Chardonnay,0,0,0,0,0,0,2013.0,0
+France,93,,Burgundy,Volnay,Roger Voss,Pinot Noir,1,0,0,0,0,0,2007.0,0
+US,87,65.0,California,Napa Valley,,Syrah,0,0,0,0,0,0,2005.0,0
+Canada,88,,British Columbia,Okanagan Valley,Paul Gregutt,Riesling,0,0,0,0,1,0,2013.0,0
+Portugal,90,15.0,Dão,,Roger Voss,Encruzado,0,1,0,0,0,0,2009.0,0
+US,92,105.0,Oregon,Dundee Hills,Paul Gregutt,Pinot Noir,0,0,0,0,0,0,2010.0,0
+France,89,141.0,Burgundy,Chambolle-Musigny,Roger Voss,Pinot Noir,1,0,0,0,0,0,2011.0,0
+US,91,35.0,Oregon,McMinnville,Paul Gregutt,Chardonnay,0,1,0,0,0,1,2016.0,0
+US,92,48.0,California,Napa Valley,,Merlot,1,0,0,0,0,0,1999.0,0
+Australia,87,18.0,Western Australia,Western Australia,,Riesling,0,0,0,0,0,0,2001.0,0
+US,89,16.0,Virginia,Virginia,Carrie Dykes,Red Blend,0,0,0,0,0,1,,1
+France,87,,Bordeaux,Médoc,Roger Voss,Bordeaux-style Red Blend,1,0,0,0,0,0,2011.0,1
+Spain,87,24.0,Northern Spain,Vino de la Tierra de Castilla y León,Michael Schachner,Red Blend,0,0,0,0,1,0,2012.0,1
+France,93,35.0,Loire Valley,Sancerre,Roger Voss,Sauvignon Blanc,0,0,0,0,0,0,2015.0,0
+US,91,66.0,California,Anderson Valley,Jim Gordon,Pinot Noir,1,0,0,0,0,0,2014.0,0
+US,92,65.0,California,Alexander Valley,,Cabernet Sauvignon,0,0,0,0,1,0,2010.0,0
+Turkey,87,17.0,Thrace,,Mike DeSimone,Red Blend,1,0,0,0,0,0,2010.0,1
+Chile,88,30.0,Maipo Valley,,Michael Schachner,Red Blend,0,0,0,0,0,0,2008.0,1
+US,93,60.0,Oregon,Willamette Valley,Paul Gregutt,Chardonnay,0,0,0,0,0,0,2012.0,0
+Italy,83,11.0,Central Italy,Lambrusco di Sorbara,,Lambrusco,1,0,0,1,0,0,,0
+US,84,9.0,California,Central Coast,,Johannisberg Riesling,0,0,0,0,0,0,2002.0,0
+US,90,25.0,Washington,Columbia Valley (WA),Paul Gregutt,Dolcetto,0,0,0,0,0,0,2011.0,0
+France,84,13.0,France Other,Vin Mousseux,Roger Voss,Sparkling Blend,0,1,0,0,0,0,,1
+US,93,60.0,California,Arroyo Grande Valley,,Pinot Noir,0,0,0,0,1,1,2007.0,0
+US,86,15.0,New York,Finger Lakes,Susan Kostrzewa,Gewürztraminer,0,1,0,0,0,1,2007.0,0
+Argentina,88,19.0,Mendoza Province,Mendoza,Michael Schachner,Red Blend,1,0,0,0,0,0,2010.0,1
+Italy,89,,Veneto,Prosecco Superiore di Cartizze,,Prosecco,0,1,0,0,1,0,,0
+US,86,52.0,California,Paso Robles,,Syrah,0,0,0,0,0,0,2011.0,0
+Spain,86,10.0,Northern Spain,Campo de Borja,Michael Schachner,Tempranillo-Cabernet Sauvignon,0,0,0,0,0,1,2005.0,1
+France,89,22.0,Southwest France,Buzet,Roger Voss,Bordeaux-style Red Blend,0,0,0,0,1,0,2005.0,1
+Portugal,85,10.0,Douro,,Roger Voss,Portuguese Red,1,0,0,0,0,0,2015.0,0
+US,95,190.0,California,Mount Veeder,Virginie Boone,Cabernet Sauvignon,1,0,0,0,0,0,2013.0,0
+Portugal,88,17.0,Trás-os-Montes,,Roger Voss,Portuguese Red,0,0,0,0,1,0,2010.0,0
+Austria,93,51.0,Kremstal,,Anne Krebiehl MW,Grüner Veltliner,0,0,0,0,0,0,2015.0,0
+US,90,14.0,California,Dry Creek Valley,Virginie Boone,Sauvignon Blanc,0,1,0,0,1,0,2014.0,0
+US,90,,California,Sonoma County,Virginie Boone,Cabernet Sauvignon,1,0,0,0,0,0,2014.0,0
+US,87,30.0,Washington,Wahluke Slope,Paul Gregutt,Cabernet Sauvignon,0,0,0,0,0,0,2009.0,0
+Austria,94,46.0,Kremstal,,Anne Krebiehl MW,Riesling,0,0,0,0,0,0,2013.0,0
+Australia,90,22.0,Tasmania,Tasmania,Joe Czerwinski,Sparkling Blend,0,0,1,1,0,0,,1
+US,91,42.0,California,Sta. Rita Hills,,Syrah,1,0,0,0,0,0,2008.0,0
+US,88,28.0,Washington,Columbia Valley (WA),Sean P. Sullivan,Merlot,0,0,0,0,0,0,2012.0,0
+US,88,25.0,California,Sonoma County,,Red Blend,0,0,0,0,0,0,2011.0,1
+Italy,87,25.0,Tuscany,Chianti Classico,Kerin O’Keefe,Sangiovese,1,0,0,0,0,0,2010.0,0
+US,92,58.0,Oregon,Willamette Valley,Paul Gregutt,Pinot Noir,1,0,0,0,0,0,2006.0,0
+Italy,91,30.0,Tuscany,Chianti Classico,Kerin O’Keefe,Red Blend,1,1,0,0,1,1,2011.0,1
+US,89,15.0,Washington,Washington,Sean P. Sullivan,Red Blend,0,0,0,0,0,0,2013.0,1
+Italy,91,33.0,Lombardy,Lugana,Kerin O’Keefe,Turbiana,0,1,0,0,0,0,2016.0,0
+US,85,22.0,California,North Coast,Virginie Boone,Cabernet Sauvignon,0,0,0,0,0,0,2010.0,0
+US,87,25.0,Washington,Columbia Valley (WA),Paul Gregutt,Cabernet Sauvignon,0,0,0,0,0,0,2008.0,0
+Italy,88,30.0,Tuscany,Maremma,,Red Blend,0,0,0,0,0,0,2009.0,1
+US,87,23.0,California,Arroyo Seco,Matt Kettmann,Pinot Noir,1,0,0,0,0,0,2011.0,0
+US,86,15.0,California,California,Jim Gordon,Rosé,1,0,1,0,0,0,2016.0,0
+France,94,,Bordeaux,Pessac-Léognan,Roger Voss,Bordeaux-style Red Blend,1,0,0,0,0,1,2009.0,1
+US,93,40.0,Washington,Washington,Sean P. Sullivan,Syrah,1,0,0,0,0,0,2014.0,0
+Italy,88,50.0,Tuscany,Toscana,Kerin O’Keefe,Merlot,1,0,0,0,0,0,2010.0,0
+Austria,84,25.0,Austria,,,Chardonnay,0,0,0,0,0,0,2000.0,0
+US,89,30.0,California,Russian River Valley,Virginie Boone,Chardonnay,0,0,0,0,0,0,2015.0,0
+France,84,,Bordeaux,Pomerol,Roger Voss,Bordeaux-style Red Blend,0,0,0,0,1,0,2006.0,1
+Italy,86,13.0,Southern Italy,Salento,,Negroamaro,0,1,1,0,0,0,2007.0,0
+Italy,92,40.0,Piedmont,Gattinara,Kerin O’Keefe,Nebbiolo,1,0,1,0,0,0,2010.0,0
+Italy,89,21.0,Sicily & Sardinia,Sicilia,,Nero d'Avola,1,0,0,0,0,0,2010.0,0
+US,88,16.0,Oregon,Umpqua Valley,Paul Gregutt,Pinot Gris,0,0,0,0,0,0,2006.0,0
+Italy,90,18.0,Veneto,Veronese,Kerin O’Keefe,Red Blend,1,0,0,0,0,0,2014.0,1
+Italy,89,20.0,Piedmont,Roero,Kerin O’Keefe,Arneis,0,1,0,0,0,0,2015.0,0
+US,87,16.0,California,Lodi,Jim Gordon,Zinfandel,0,0,0,0,0,0,2011.0,0
+US,92,24.0,California,Napa County,Virginie Boone,Sparkling Blend,0,0,0,0,0,0,,1
+France,90,,Bordeaux,Pomerol,Roger Voss,Bordeaux-style Red Blend,0,0,0,0,0,0,2009.0,1
+Italy,89,60.0,Piedmont,Strevi,,Moscato,0,0,0,0,0,1,2005.0,0
+US,89,18.0,New York,Finger Lakes,Anna Lee C. Iijima,Riesling,0,1,0,0,1,0,2011.0,0
+Austria,90,,Wachau,,Roger Voss,Riesling,0,1,0,0,0,0,2007.0,0
+US,93,65.0,California,Sonoma Coast,Virginie Boone,Pinot Noir,1,0,0,0,0,0,2011.0,0
+US,86,15.0,Washington,Columbia Valley (WA),Paul Gregutt,Red Blend,1,0,0,0,0,0,2008.0,1
+US,90,14.0,California,Santa Ynez Valley,,Riesling,0,1,0,0,1,0,2010.0,0
+US,83,13.0,California,California,,Pinot Noir,1,0,0,0,0,0,2010.0,0
+US,82,55.0,Washington,Rattlesnake Hills,Sean P. Sullivan,Chardonnay,0,0,0,0,0,0,2011.0,0
+US,90,18.0,Oregon,Umpqua Valley,Paul Gregutt,Viognier,0,0,0,0,0,0,2009.0,0
+Australia,88,32.0,South Australia,McLaren Vale,Joe Czerwinski,Grenache,0,0,0,0,0,0,2013.0,0
+Italy,87,,Piedmont,Barbaresco,Kerin O’Keefe,Nebbiolo,0,0,0,0,1,0,2012.0,0
+France,90,20.0,Alsace,Alsace,Anne Krebiehl MW,Pinot Gris,0,0,0,0,0,0,2014.0,0
+US,90,35.0,California,Santa Barbara County,,Syrah,1,0,0,0,0,0,2008.0,0
+Australia,88,22.0,South Australia,Coonawarra,Joe Czerwinski,Sauvignon Blanc,0,1,0,0,0,0,2009.0,0
+Spain,89,33.0,Northern Spain,Rioja,Michael Schachner,Tempranillo,0,0,0,0,1,0,2004.0,0
+US,86,15.0,California,Mendocino County,,Zinfandel,0,0,0,0,0,1,2007.0,0
+France,92,124.0,Bordeaux,Pessac-Léognan,Roger Voss,Bordeaux-style Red Blend,1,0,0,0,0,0,2009.0,1
+Italy,91,20.0,Lombardy,Lugana,Kerin O’Keefe,Turbiana,0,0,0,0,1,0,2014.0,0
+South Africa,90,45.0,Paarl,,Susan Kostrzewa,Merlot,0,0,0,0,1,0,2002.0,0
+US,89,17.0,California,California,Jim Gordon,Chardonnay,0,1,0,0,0,0,2014.0,0
+Italy,89,45.0,Veneto,Amarone della Valpolicella,Kerin O’Keefe,Red Blend,0,0,0,0,0,0,2009.0,1
+France,85,17.0,Burgundy,Bourgogne,,Pinot Noir,0,0,0,0,1,0,1998.0,0
+US,90,15.0,Washington,Wahluke Slope,Paul Gregutt,Chardonnay,0,0,0,0,1,1,2011.0,0
+Portugal,89,36.0,Douro,,Roger Voss,Moscatel,0,0,0,0,1,0,2015.0,0
+US,94,50.0,California,Russian River Valley,,Chardonnay,0,0,0,0,1,1,2009.0,0
+US,85,30.0,California,Carneros,,Pinot Noir,0,0,0,0,1,0,2006.0,0
+US,90,20.0,California,Lake County,Jim Gordon,Sauvignon Blanc,0,0,0,0,1,0,2015.0,0
+France,96,,Bordeaux,Pessac-Léognan,Roger Voss,Bordeaux-style Red Blend,0,0,0,0,0,0,2009.0,1
+US,91,45.0,Washington,Columbia Valley (WA),Paul Gregutt,Cabernet Sauvignon,1,0,0,0,0,0,2009.0,0
+France,85,,Loire Valley,Muscadet Sèvre et Maine,Roger Voss,Melon,0,0,0,0,0,0,2013.0,0
+US,88,34.0,California,Carneros,Virginie Boone,Chardonnay,0,1,0,0,0,0,2013.0,0
+Spain,87,13.0,Northern Spain,Rueda,Michael Schachner,Verdejo,0,0,0,0,0,0,2016.0,0
+France,86,16.0,Loire Valley,Coteaux du Giennois,Roger Voss,Sauvignon Blanc,0,0,0,0,0,0,2014.0,0
+US,86,18.0,California,Clear Lake,,Fumé Blanc,0,0,0,0,0,0,2000.0,0
+France,90,22.0,Alsace,Alsace,Roger Voss,Riesling,0,1,0,0,1,0,2009.0,0
+Italy,91,50.0,Tuscany,Brunello di Montalcino,,Sangiovese Grosso,0,0,0,0,0,0,2008.0,0
+Italy,90,35.0,Tuscany,Toscana,Kerin O’Keefe,Petit Verdot,1,1,0,0,0,0,2012.0,0
+France,93,70.0,Bordeaux,Pessac-Léognan,Roger Voss,Bordeaux-style White Blend,0,0,0,0,0,0,2013.0,1
+US,84,9.0,California,California,,Cabernet Sauvignon,0,0,0,0,1,1,2009.0,0
+US,92,24.0,California,Santa Barbara County,Matt Kettmann,Chardonnay,0,0,0,0,0,0,2013.0,0
+US,95,47.0,California,Russian River Valley,Virginie Boone,Zinfandel,1,1,0,0,0,0,2014.0,0
+Italy,94,48.0,Veneto,Recioto di Soave Classico,,Garganega,0,0,0,0,1,1,2007.0,0
+US,93,60.0,California,Santa Lucia Highlands,Matt Kettmann,Pinot Noir,1,0,0,0,1,0,2013.0,0
+Spain,83,9.0,Northern Spain,Rioja,Michael Schachner,Tempranillo,1,0,0,0,1,0,2014.0,0
+France,83,15.0,Burgundy,Bourgogne,Roger Voss,Chardonnay,0,0,0,0,0,0,2015.0,0
+US,83,10.0,California,California,,Pinot Noir,1,0,0,0,1,0,2011.0,0
+US,87,29.0,California,Napa Valley,,Chardonnay,0,0,0,0,0,1,2010.0,0
+US,90,22.0,California,Russian River Valley,Virginie Boone,Gewürztraminer,0,0,0,0,0,0,2014.0,0
+US,86,32.0,Virginia,Shenandoah Valley,Alexander Peartree,Cabernet Franc,0,0,0,0,0,0,2013.0,0
+Portugal,87,,Lisboa,,Roger Voss,Touriga Nacional,0,0,0,0,0,0,2014.0,0
+Italy,88,15.0,Tuscany,Chianti Classico,Kerin O’Keefe,Red Blend,0,0,0,0,0,0,2012.0,1
+Argentina,85,12.0,Mendoza Province,Mendoza,Michael Schachner,Cabernet Sauvignon,0,0,0,0,0,0,2013.0,0
+Italy,86,11.0,Veneto,Soave Classico,,Garganega,0,0,0,0,0,0,2011.0,0
+France,86,24.0,Languedoc-Roussillon,Côtes du Roussillon Villages,Lauren Buzzeo,Rhône-style Red Blend,1,0,0,0,0,0,2009.0,1
+New Zealand,88,20.0,Martinborough,,Joe Czerwinski,Sauvignon Blanc,0,1,0,0,0,0,2015.0,0
+Italy,90,35.0,Tuscany,Chianti Classico,Kerin O’Keefe,Red Blend,1,0,0,0,0,0,2011.0,1
+Italy,92,23.0,Southern Italy,Irpinia,Kerin O’Keefe,Aglianico,1,0,1,0,0,0,2012.0,0
+US,84,14.0,California,Santa Barbara County,,Pinot Noir,0,0,0,0,1,0,2007.0,0
+US,87,15.0,California,Central Coast,Matt Kettmann,G-S-M,1,0,0,0,0,0,2014.0,1
+Australia,88,13.0,New South Wales,Southern Highlands,Joe Czerwinski,Cabernet Sauvignon,0,0,0,0,0,0,2004.0,0
+US,87,16.0,Washington,Columbia Valley (WA),Paul Gregutt,Merlot,1,0,0,0,0,0,2008.0,0
+Spain,83,8.0,Northern Spain,Cariñena,Michael Schachner,Carineña,0,0,0,0,0,0,2013.0,0
+US,88,65.0,Virginia,Virginia,Alexander Peartree,Red Blend,1,0,0,0,0,0,2012.0,1
+US,92,38.0,California,Dry Creek Valley,Virginie Boone,Zinfandel,1,0,0,0,0,1,2014.0,0
+Italy,91,102.0,Piedmont,Barolo,Kerin O’Keefe,Nebbiolo,1,0,1,0,0,0,2010.0,0
+France,81,13.0,Languedoc-Roussillon,Vin de Pays d'Oc,Lauren Buzzeo,Chardonnay,1,0,0,0,0,0,2005.0,0
+Chile,87,20.0,Casablanca Valley,,Michael Schachner,Sauvignon Blanc,0,0,0,0,0,0,2015.0,0
+Germany,90,22.0,Mosel,,Anna Lee C. Iijima,Riesling,0,1,0,0,0,1,2015.0,0
+Italy,87,13.0,Sicily & Sardinia,Sicilia,Kerin O’Keefe,Nero d'Avola,1,1,0,0,0,0,2013.0,0
+Argentina,80,9.0,Other,Tulum Valley,Michael Schachner,Cabernet Sauvignon,0,0,0,0,0,0,2015.0,0
+US,92,38.0,California,Arroyo Seco,Matt Kettmann,Pinot Noir,1,0,0,0,0,0,2013.0,0
+US,89,56.0,California,Napa Valley,,Cabernet Sauvignon,0,0,0,0,1,0,2007.0,0
+US,88,25.0,California,Sierra Foothills,Jim Gordon,Barbera,1,0,0,0,0,0,2014.0,0
+Italy,85,13.0,Northeastern Italy,Collio,Kerin O’Keefe,Pinot Grigio,0,0,0,0,0,0,2014.0,0
+France,85,35.0,Champagne,Champagne,Roger Voss,Champagne Blend,0,0,0,0,0,1,,1
+Italy,87,,Veneto,Soave Classico,Kerin O’Keefe,Garganega,0,0,0,0,0,0,2015.0,0
+US,81,22.0,California,Napa Valley,,Chardonnay,0,0,0,0,0,1,2011.0,0
+US,89,15.0,California,California,Jim Gordon,Pinot Noir,1,0,0,0,0,0,2015.0,0
+Chile,84,9.0,Curicó Valley,,Michael Schachner,Cabernet Sauvignon,1,0,0,0,0,1,2010.0,0
+US,88,10.0,Washington,Columbia Valley (WA),Paul Gregutt,Chardonnay,0,0,0,0,0,0,1998.0,0
+US,89,35.0,Washington,Columbia Valley (WA),Sean P. Sullivan,Petit Verdot,0,0,0,0,1,0,2012.0,0
+Spain,93,50.0,Andalucia,Jerez,Michael Schachner,Sherry,0,0,0,0,0,0,,0
+Portugal,86,13.0,Douro,,Roger Voss,Portuguese Red,1,0,0,0,1,0,2013.0,0
+US,83,10.0,California,California,,Merlot,1,0,0,0,1,0,2012.0,0
+US,84,36.0,California,Napa Valley,,Bordeaux-style White Blend,0,0,0,0,0,0,2010.0,1
+Spain,89,18.0,Galicia,Rías Baixas,Michael Schachner,Albariño,0,0,0,0,0,0,2014.0,0
+France,92,45.0,Languedoc-Roussillon,Côtes du Roussillon,Lauren Buzzeo,Rhône-style Red Blend,1,0,0,0,0,0,2008.0,1
+Chile,82,11.0,Curicó Valley,,Michael Schachner,Carmenère,0,0,0,0,0,0,2015.0,0
+New Zealand,86,10.0,Marlborough,,Joe Czerwinski,Sauvignon Blanc,0,0,0,0,0,0,2009.0,0
+France,85,20.0,Rhône Valley,Côtes du Rhône,Joe Czerwinski,Rhône-style Red Blend,1,0,0,0,0,0,2013.0,1
+France,92,20.0,Beaujolais,Morgon,Roger Voss,Gamay,1,0,0,0,0,0,2015.0,0
+US,86,10.0,California,California,Jim Gordon,Chardonnay,0,0,0,0,1,0,2013.0,0
+Italy,93,79.0,Piedmont,Barolo,Kerin O’Keefe,Nebbiolo,0,0,0,0,0,0,2013.0,0
+France,91,,Bordeaux,Graves,Roger Voss,Bordeaux-style White Blend,0,0,0,0,0,0,2010.0,1
+Portugal,87,18.0,Minho,,Roger Voss,Portuguese White,0,0,0,0,0,0,2013.0,0
+Italy,85,10.0,Central Italy,Montepulciano d'Abruzzo,,Montepulciano,0,0,1,0,0,0,2007.0,0
+Italy,89,49.0,Central Italy,Montefalco Sagrantino,Kerin O’Keefe,Sagrantino,1,0,0,0,0,0,2010.0,0
+US,84,15.0,California,North Coast,,Cabernet Sauvignon,0,0,0,0,1,0,2010.0,0
+US,86,26.0,California,Russian River Valley,,Chardonnay,0,0,0,0,0,0,2005.0,0
+US,92,65.0,Washington,Yakima Valley,Paul Gregutt,Syrah,0,0,0,0,0,0,2010.0,0
+Italy,92,67.0,Piedmont,Barolo,Kerin O’Keefe,Nebbiolo,1,1,0,0,0,0,2012.0,0
+US,88,17.0,California,Dry Creek Valley,,Cabernet Sauvignon,0,0,0,0,1,0,2010.0,0
+Spain,88,18.0,Andalucia,Málaga,Michael Schachner,Moscatel,0,0,0,0,1,0,2015.0,0
+US,88,17.0,Washington,Horse Heaven Hills,Sean P. Sullivan,Cabernet Sauvignon,0,0,0,0,0,0,2014.0,0
+Italy,90,28.0,Veneto,Veronese,,Red Blend,1,0,0,0,0,0,2006.0,1
+Chile,87,14.0,Maule Valley,,Michael Schachner,Carmenère,1,0,0,0,0,0,2013.0,0
+US,91,50.0,California,Central Coast,Matt Kettmann,Syrah,1,0,0,0,0,1,2012.0,0
+South Africa,89,20.0,Bot River,,Lauren Buzzeo,Chenin Blanc,0,1,0,0,0,0,2016.0,0
+US,84,65.0,California,Carneros,,Pinot Noir,1,0,0,0,0,1,2005.0,0
+Chile,86,11.0,Central Valley,,Michael Schachner,Cabernet Sauvignon,1,0,0,0,0,0,2014.0,0
+US,88,28.0,California,Central Coast,Matt Kettmann,Merlot,1,0,0,0,0,0,2015.0,0
+US,91,35.0,California,Alexander Valley,Virginie Boone,Sauvignon Blanc,0,1,0,0,0,0,2015.0,0
+France,86,16.0,Bordeaux,Bordeaux,Roger Voss,Bordeaux-style Red Blend,1,0,0,0,0,0,2014.0,1
+US,87,20.0,California,Napa Valley,,Merlot,1,0,0,0,0,0,2007.0,0
+Italy,88,30.0,Southern Italy,Fiano di Avellino,,Fiano,0,0,0,0,0,0,2007.0,0
+Chile,83,16.0,Maule Valley,,Michael Schachner,Cabernet Sauvignon,0,0,0,0,0,0,2012.0,0
+US,90,16.0,California,Lodi,Jim Gordon,Syrah,1,0,0,0,0,0,2014.0,0
+Portugal,93,22.0,Alentejo,,Roger Voss,Portuguese Red,1,0,0,0,0,0,2011.0,0
+US,94,80.0,California,Russian River Valley,Virginie Boone,Pinot Noir,1,0,0,0,0,0,2014.0,0
+Italy,90,50.0,Tuscany,Maremma Toscana,Kerin O’Keefe,Red Blend,1,0,0,0,0,0,2012.0,1
+South Africa,94,43.0,Swartland,,Lauren Buzzeo,Red Blend,1,0,0,0,0,0,2013.0,1
+France,87,25.0,Alsace,Crémant d'Alsace,Anne Krebiehl MW,Sparkling Blend,0,0,0,0,1,0,,1
+France,87,18.0,Provence,Var,Roger Voss,Rosé,1,0,0,0,0,0,2015.0,0
+Chile,81,12.0,Casablanca Valley,,Michael Schachner,Chardonnay,0,0,0,0,0,0,2010.0,0
+Spain,91,25.0,Spanish Islands,Vi de la Terra Mallorca,Michael Schachner,Red Blend,0,0,0,0,1,0,2011.0,1
+France,86,14.0,Beaujolais,Beaujolais-Villages,Roger Voss,Gamay,1,0,0,0,1,0,2014.0,0
+US,87,45.0,Oregon,Dundee Hills,Paul Gregutt,Pinot Noir,0,0,0,0,0,0,2009.0,0
+Spain,90,33.0,Northern Spain,Rioja,Michael Schachner,Tempranillo,0,0,0,0,1,0,2004.0,0
+Spain,92,24.0,Northern Spain,Ribera del Duero,Michael Schachner,Tinto Fino,0,0,0,0,0,0,2011.0,0
+Italy,88,24.0,Northeastern Italy,Collio,Kerin O’Keefe,Ribolla Gialla,0,0,0,0,0,0,2014.0,0
+US,90,41.0,California,Santa Maria Valley,,Chardonnay,0,0,0,0,0,0,2011.0,0
+US,87,16.0,California,Central Coast,Matt Kettmann,Pinot Noir,1,0,0,0,0,0,2012.0,0
+France,91,30.0,Alsace,Alsace,Roger Voss,Pinot Gris,0,0,0,0,1,0,2013.0,0
+Italy,90,67.0,Tuscany,Brunello di Montalcino,,Sangiovese Grosso,1,0,0,0,0,1,2006.0,0
+France,93,85.0,Southwest France,Cahors,Roger Voss,Malbec,1,0,0,0,0,0,2009.0,0
+US,87,15.0,New York,Finger Lakes,Anna Lee C. Iijima,Gewürztraminer,0,0,0,0,1,0,2016.0,0
+Spain,88,16.0,Northern Spain,Ribera del Duero,Michael Schachner,Red Blend,0,0,0,0,0,0,2010.0,1
+Chile,86,13.0,Curicó and Leyda Valleys,,Michael Schachner,Sauvignon Blanc,0,0,0,0,0,0,2012.0,0
+US,84,13.0,New York,Finger Lakes,Anna Lee C. Iijima,Riesling,0,0,0,0,1,0,2013.0,0
+US,87,50.0,Oregon,Willamette Valley,Paul Gregutt,Pinot Noir,0,0,0,0,0,0,2012.0,0
+US,93,25.0,Washington,Columbia Valley (WA),Paul Gregutt,Syrah,1,0,0,0,0,0,2009.0,0
+France,93,,Champagne,Champagne,Roger Voss,Chardonnay,0,0,0,0,0,0,2009.0,0
+Chile,85,13.0,Colchagua Valley,,Michael Schachner,Chardonnay,0,0,0,0,0,0,2014.0,0
+France,89,18.0,Southwest France,Vin de Pays du Comté Tolosan,Roger Voss,Syrah,1,0,0,0,0,0,2009.0,0
+Spain,87,11.0,Northern Spain,Rueda,Michael Schachner,Verdejo,0,0,0,0,0,0,2013.0,0
+US,95,60.0,California,Arroyo Grande Valley,Matt Kettmann,Pinot Noir,1,0,1,0,1,0,2015.0,0
+Italy,91,52.0,Tuscany,Toscana,,Red Blend,0,0,0,0,0,0,2003.0,1
+US,88,25.0,California,Shenandoah Valley (CA),Virginie Boone,Barbera,0,0,0,0,0,0,2009.0,0
+France,90,33.0,Alsace,Alsace,Roger Voss,Gewürztraminer,0,0,0,0,0,1,2010.0,0
+Portugal,91,40.0,Alentejano,,Roger Voss,Portuguese White,0,0,0,0,0,0,2013.0,0
+US,88,22.0,California,Spring Mountain District,,Cabernet Sauvignon,0,0,0,0,1,1,2009.0,0
+US,87,32.0,Oregon,Applegate Valley,Paul Gregutt,Merlot,0,0,0,0,0,0,2014.0,0
+Spain,88,15.0,Catalonia,Cava,Michael Schachner,Sparkling Blend,0,0,0,0,0,1,,1
+US,94,25.0,Washington,Yakima Valley,Paul Gregutt,Roussanne,0,0,0,0,0,0,2009.0,0
+France,90,29.0,Alsace,Alsace,,Muscat,0,0,0,0,0,0,2008.0,0
+Spain,86,10.0,Catalonia,Cava,Michael Schachner,Sparkling Blend,0,0,0,0,0,1,,1
+Portugal,97,1000.0,Port,,Roger Voss,Port,0,0,0,0,0,0,0.0,0
+Chile,87,16.0,Casablanca Valley,,Michael Schachner,Chardonnay,0,0,0,0,0,1,2012.0,0
+Argentina,85,10.0,Mendoza Province,Mendoza,Michael Schachner,Chardonnay,0,0,0,0,0,1,2010.0,0
+US,94,175.0,California,Napa Valley,Virginie Boone,Cabernet Sauvignon,1,0,0,0,0,0,2014.0,0
+France,92,,Bordeaux,Margaux,Roger Voss,Bordeaux-style Red Blend,1,0,0,0,0,0,2013.0,1
+US,88,75.0,California,Napa Valley,Virginie Boone,Malbec,0,0,0,0,0,0,2012.0,0
+France,88,54.0,Burgundy,Pouilly-Fuissé,Roger Voss,Chardonnay,0,0,0,0,0,0,2013.0,0
+Argentina,91,24.0,Mendoza Province,Mendoza,Michael Schachner,Malbec,1,0,0,0,0,0,2010.0,0
+US,85,10.0,California,California,,White Blend,0,1,0,0,1,0,2007.0,1
+France,86,,France Other,Côtes du Jura,Roger Voss,Chardonnay,0,0,0,0,0,0,2010.0,0
+France,86,16.0,Loire Valley,,Roger Voss,Gros Plant,0,0,0,0,0,0,2016.0,0
+US,88,19.0,Idaho,,Paul Gregutt,Syrah,0,0,0,0,0,0,0.0,0
+France,88,45.0,Champagne,Champagne,Roger Voss,Champagne Blend,0,1,0,0,0,0,,1
+Spain,88,15.0,Northern Spain,Rioja,Michael Schachner,Tempranillo,1,0,0,0,0,0,2007.0,0
+US,90,65.0,Oregon,Willamette Valley,Paul Gregutt,Pinot Noir,0,0,0,0,0,0,2015.0,0
+France,88,21.0,Languedoc-Roussillon,Saint-Chinian,Lauren Buzzeo,Rhône-style Red Blend,1,0,0,0,0,0,2012.0,1
+Spain,90,19.0,Galicia,Rías Baixas,Michael Schachner,Albariño,0,0,0,0,0,0,2012.0,0
+Portugal,90,38.0,Tejo,,Roger Voss,Fernão Pires,0,0,0,0,0,0,2013.0,0
+US,90,60.0,California,Oak Knoll District,Virginie Boone,Cabernet Sauvignon,1,0,0,0,0,0,2013.0,0
+Chile,87,8.0,Lontué Valley,,Michael Schachner,White Blend,0,1,0,0,0,0,2009.0,1
+Italy,87,,Sicily & Sardinia,Sicilia,,Red Blend,0,0,0,0,0,0,2010.0,1
+Portugal,90,10.0,Lisboa,,Roger Voss,Portuguese White,0,0,0,0,0,0,2011.0,0
+US,80,18.0,California,Cienega Valley,,Dolcetto,0,0,0,0,0,0,2004.0,0
+Italy,90,35.0,Lombardy,Franciacorta,,Sparkling Blend,0,0,1,0,0,0,2006.0,1
+New Zealand,87,18.0,Nelson,,Joe Czerwinski,Sauvignon Blanc,0,1,0,0,0,0,2014.0,0
+US,88,40.0,California,Lodi,Jim Gordon,Zinfandel,1,0,0,0,0,0,2014.0,0
+France,93,139.0,Southwest France,Cahors,Roger Voss,Malbec,1,0,0,0,0,0,2008.0,0
+Canada,90,15.0,Ontario,Niagara Peninsula,Paul Gregutt,Riesling,0,0,0,0,0,0,2013.0,0
+US,94,45.0,Washington,Columbia Valley (WA),Paul Gregutt,Cabernet Sauvignon,0,0,0,0,0,0,2011.0,0
+Austria,90,19.0,Burgenland,,Anne Krebiehl MW,White Blend,0,0,0,0,0,0,2015.0,1
+Chile,85,15.0,Casablanca & Leyda Valleys,,Michael Schachner,Chardonnay,0,0,0,0,0,0,2011.0,0
+US,85,20.0,California,Carneros,,Pinot Noir,0,0,0,0,1,0,2010.0,0
+France,94,75.0,Burgundy,Chablis,Roger Voss,Chardonnay,0,0,0,0,0,0,2011.0,0
+US,90,11.0,Washington,Columbia Valley (WA),Paul Gregutt,Sauvignon Blanc,0,1,0,0,0,0,2012.0,0
+Chile,89,39.0,Colchagua Valley,,Michael Schachner,Carmenère,1,0,0,0,0,0,2011.0,0
+US,86,17.0,California,Dry Creek Valley,,Gewürztraminer,0,0,0,0,1,0,2007.0,0
+US,93,50.0,California,Amador County,Jim Gordon,Zinfandel,0,0,0,0,0,0,2013.0,0
+US,93,45.0,California,Russian River Valley,Virginie Boone,Zinfandel,1,0,0,0,1,0,2012.0,0
+France,94,33.0,Alsace,Alsace,Anne Krebiehl MW,Pinot Gris,0,0,0,0,0,0,2015.0,0
+France,89,45.0,Burgundy,Auxey-Duresses,Roger Voss,Pinot Noir,1,0,0,0,0,0,2015.0,0
+Spain,92,100.0,Northern Spain,Rioja,Michael Schachner,Tempranillo Blend,0,0,0,0,0,0,2010.0,1
+US,89,39.0,California,Sonoma County,,Zinfandel,1,0,0,0,1,0,2006.0,0
+Italy,88,36.0,Veneto,Prosecco Superiore di Cartizze,,Prosecco,0,0,0,0,0,0,,0
+Italy,87,15.0,Sicily & Sardinia,Sicilia,,Red Blend,1,1,0,0,0,0,2009.0,1
+US,93,60.0,California,Russian River Valley,Virginie Boone,Pinot Noir,0,0,0,0,0,0,2012.0,0
+France,93,,Loire Valley,Savennières,Roger Voss,Chenin Blanc,0,0,0,0,0,0,2007.0,0
+Portugal,93,25.0,Alentejano,,Roger Voss,Portuguese Red,1,0,0,0,0,0,2015.0,0
+Chile,83,11.0,Maule Valley,,Michael Schachner,White Blend,0,0,0,0,0,0,2013.0,1
+France,88,16.0,Loire Valley,Muscadet Sèvre et Maine,Roger Voss,Melon,0,0,0,0,0,0,2008.0,0
+US,91,48.0,California,Santa Ynez Valley,Matt Kettmann,Syrah,1,0,0,0,0,0,2012.0,0
+Austria,94,,Kamptal,,Roger Voss,Grüner Veltliner,0,0,0,0,0,0,2010.0,0
+US,87,17.0,New York,Finger Lakes,Anna Lee C. Iijima,Riesling,0,0,0,0,1,0,2016.0,0
+France,87,18.0,Alsace,Alsace,Roger Voss,Riesling,0,0,0,0,0,0,2012.0,0
+France,87,18.0,Southwest France,Fronton,Roger Voss,Negrette,1,0,0,0,0,0,2014.0,0
+Chile,90,28.0,Casablanca Valley,,Michael Schachner,Pinot Noir,1,0,0,0,0,0,2006.0,0
+Bulgaria,89,14.0,Thracian Valley,,Jeff Jenssen,Red Blend,0,0,0,0,0,1,2009.0,1
+Germany,93,64.0,Mosel,,Anna Lee C. Iijima,Riesling,0,0,0,0,0,1,2012.0,0
+Austria,94,,Vienna,,Anne Krebiehl MW,Chardonnay,0,0,0,0,0,0,2011.0,0
+France,88,12.0,Bordeaux,Bordeaux Rosé,Roger Voss,Rosé,1,0,0,0,0,0,2016.0,0
+Argentina,92,50.0,Mendoza Province,,Michael Schachner,Red Blend,1,0,0,0,0,0,2009.0,1
+Chile,87,,Maipo Valley,,Michael Schachner,Sauvignon Blanc,0,0,0,0,0,1,2011.0,0
+US,90,45.0,California,Napa Valley,Virginie Boone,Merlot,0,0,0,0,0,0,2014.0,0
+Chile,84,26.0,Peumo,,Michael Schachner,Carmenère,0,0,0,0,0,0,2010.0,0
+US,81,7.0,California,California,,Cabernet Sauvignon,0,0,0,0,1,0,2012.0,0
+US,86,58.0,California,Napa Valley,Virginie Boone,Merlot,0,0,0,0,0,0,2010.0,0
+South Africa,86,9.0,Robertson,,Susan Kostrzewa,Chardonnay,0,1,0,0,0,0,2007.0,0
+Italy,95,50.0,Tuscany,Vino Nobile di Montepulciano,Kerin O’Keefe,Red Blend,1,0,0,0,0,0,2010.0,1
+Italy,88,34.0,Lombardy,Franciacorta,Kerin O’Keefe,Sparkling Blend,0,0,0,0,1,0,2007.0,1
+US,81,12.0,California,Paso Robles,,Zinfandel,0,0,0,0,0,0,2006.0,0
+Austria,91,20.0,Eisenberg,,Anne Krebiehl MW,Blaufränkisch,1,0,0,0,0,0,2014.0,0
+US,88,32.0,California,Dry Creek Valley,Virginie Boone,Chardonnay,0,0,0,0,1,0,2012.0,0
+US,86,48.0,California,Sonoma Valley,,Cabernet Sauvignon,0,0,0,0,0,0,2010.0,0
+France,93,39.0,Bordeaux,Pessac-Léognan,Roger Voss,Bordeaux-style Red Blend,0,0,0,0,0,1,2009.0,1
+Italy,86,,Sicily & Sardinia,Sicilia,,Red Blend,1,0,0,0,0,0,2010.0,1
+Spain,85,10.0,Northern Spain,Navarra,Michael Schachner,Tempranillo,0,0,0,0,0,0,2012.0,0
+US,92,36.0,California,Calaveras County,Jim Gordon,White Blend,0,1,0,0,0,0,2015.0,1
+US,87,20.0,New York,Finger Lakes,Anna Lee C. Iijima,Riesling,0,0,0,0,0,0,2011.0,0
+Romania,86,7.0,Viile Timisului,,Jeff Jenssen,Merlot,1,0,0,0,0,0,2014.0,0
+US,90,36.0,Washington,Columbia Valley (WA),Sean P. Sullivan,Rhône-style Red Blend,1,0,0,0,0,0,2010.0,1
+US,90,14.0,California,El Dorado,Jim Gordon,Zinfandel,0,0,0,0,0,0,2011.0,0
+US,93,150.0,California,Napa Valley,Virginie Boone,Cabernet Sauvignon,1,0,0,0,0,0,2011.0,0
+France,89,16.0,Alsace,Alsace,Anne Krebiehl MW,Pinot Gris,0,0,0,0,1,0,2015.0,0
+US,90,75.0,California,Napa Valley,,Bordeaux-style Red Blend,1,0,0,0,0,0,1997.0,1
+US,86,20.0,California,Paso Robles,,Rhône-style Red Blend,1,0,0,0,0,0,2011.0,1
+South Africa,87,11.0,South Africa,,Lauren Buzzeo,Chenin Blanc,0,1,0,0,0,0,2016.0,0
+US,91,41.0,New York,Finger Lakes,Anna Lee C. Iijima,Merlot,1,0,0,0,0,0,2012.0,0
+Argentina,85,14.0,Mendoza Province,Mendoza,Michael Schachner,Bonarda,0,0,0,0,0,0,2011.0,0
+US,88,12.0,Washington,Columbia Valley (WA),Sean P. Sullivan,Cabernet Sauvignon,0,0,0,0,0,0,2010.0,0
+US,85,30.0,Idaho,,Sean P. Sullivan,Cabernet Sauvignon,0,0,0,0,0,1,2012.0,0
+Italy,92,45.0,Tuscany,Brunello di Montalcino,,Sangiovese Grosso,1,0,0,0,0,0,2008.0,0
+US,91,45.0,Oregon,Willamette Valley,Paul Gregutt,Chardonnay,0,0,0,0,0,0,2010.0,0
+France,88,20.0,Burgundy,Rully,Roger Voss,Chardonnay,0,1,0,0,0,0,2007.0,0
+France,93,,Bordeaux,Sauternes,Roger Voss,Bordeaux-style White Blend,0,0,0,0,1,0,2014.0,1
+Italy,90,100.0,Veneto,Amarone della Valpolicella,,"Corvina, Rondinella, Molinara",1,0,0,0,0,0,2006.0,0
+France,93,70.0,Burgundy,Volnay,Roger Voss,Pinot Noir,1,0,0,0,0,0,2006.0,0
+Argentina,93,35.0,Mendoza Province,Mendoza,Michael Schachner,Red Blend,0,0,0,0,0,0,2007.0,1
+Spain,92,30.0,Northern Spain,Toro,Michael Schachner,Tinta de Toro,0,0,0,0,0,0,2012.0,0
+France,90,26.0,Burgundy,Pouilly-Vinzelles,Roger Voss,Chardonnay,0,0,0,0,0,0,2014.0,0
+Mexico,85,28.0,Valle de Guadalupe,,Michael Schachner,Cabernet Sauvignon,1,0,0,0,0,1,2010.0,0
+Greece,92,22.0,Drama,,Susan Kostrzewa,Red Blend,1,0,0,0,0,0,2012.0,1
+France,86,15.0,Rhône Valley,Côtes du Rhône,Joe Czerwinski,Rhône-style White Blend,0,0,0,0,0,0,2014.0,1
+Spain,86,16.0,Catalonia,Montsant,Michael Schachner,Red Blend,0,0,0,0,0,0,2008.0,1
+Australia,93,54.0,South Australia,Barossa,Joe Czerwinski,Grenache,1,0,0,0,0,0,2011.0,0
+France,90,23.0,Alsace,Alsace,Anne Krebiehl MW,Pinot Blanc,1,0,0,0,0,0,2014.0,0
+US,91,34.0,California,Amador County,Jim Gordon,Zinfandel,1,0,0,0,0,0,2014.0,0
+France,88,65.0,Champagne,Champagne,Roger Voss,Champagne Blend,0,0,0,0,0,0,,1
+Italy,85,10.0,Northeastern Italy,Delle Venezie,,White Blend,0,0,1,0,0,1,2008.0,1
+US,88,30.0,New York,Finger Lakes,Anna Lee C. Iijima,Chardonnay,0,0,0,0,0,0,2012.0,0
+France,93,31.0,Alsace,Alsace,Roger Voss,Gewürztraminer,0,0,0,0,0,0,2011.0,0
+Italy,92,65.0,Piedmont,Barbaresco,,Nebbiolo,0,0,0,0,0,0,2008.0,0
+France,88,30.0,Bordeaux,Listrac-Médoc,Roger Voss,Bordeaux-style Red Blend,0,0,0,0,0,0,2011.0,1
+France,85,13.0,Provence,Côtes de Provence,Roger Voss,Rosé,0,0,0,0,0,0,2015.0,0
+Portugal,87,13.0,Tejo,,Roger Voss,Portuguese Red,0,0,0,0,0,0,2015.0,0
+France,92,27.0,Alsace,Crémant d'Alsace,Anne Krebiehl MW,Sparkling Blend,1,0,0,0,1,0,,1
+France,89,20.0,Alsace,Crémant d'Alsace,Anne Krebiehl MW,Sparkling Blend,0,0,0,0,0,0,,1
+US,87,80.0,California,Sonoma Valley,Virginie Boone,Red Blend,0,0,0,0,0,0,2012.0,1
+US,94,35.0,Washington,Walla Walla Valley (WA),Paul Gregutt,Cabernet Sauvignon,0,0,0,0,0,1,2008.0,0
+France,93,19.0,Southwest France,Madiran,Roger Voss,Tannat,1,0,0,0,0,0,2012.0,0
+France,91,26.0,Alsace,Alsace,Anne Krebiehl MW,Pinot Gris,0,0,0,0,1,1,2013.0,0
+France,91,,Provence,Côtes de Provence Sainte-Victoire,Roger Voss,Rosé,0,0,0,0,0,0,2013.0,0
+France,85,25.0,Loire Valley,Sancerre,Roger Voss,Rosé,1,0,0,0,0,0,2016.0,0
+Spain,82,11.0,Northern Spain,Rueda,Michael Schachner,Verdejo,0,0,0,0,0,0,2013.0,0
+US,84,26.0,Virginia,Monticello,,Chardonnay,0,1,0,0,0,0,2011.0,0
+France,89,20.0,Southwest France,Buzet,Roger Voss,Bordeaux-style Red Blend,1,0,0,0,0,0,2014.0,1
+Argentina,92,25.0,Mendoza Province,Mendoza,Michael Schachner,Red Blend,1,0,0,0,0,0,2009.0,1
+France,88,13.0,Beaujolais,Beaujolais-Villages,Roger Voss,Gamay,1,0,0,0,0,0,2014.0,0
+US,90,38.0,Oregon,Willamette Valley,Paul Gregutt,Chardonnay,0,0,0,0,0,0,2013.0,0
+US,87,21.0,California,Central Coast,Matt Kettmann,Grenache,1,0,0,0,0,0,2012.0,0
+US,94,80.0,California,Howell Mountain,,Cabernet Sauvignon,0,0,0,0,0,0,2009.0,0
+Spain,84,17.0,Northern Spain,Ribera del Duero,Michael Schachner,Tempranillo,0,0,0,0,0,0,2013.0,0
+France,93,,Burgundy,Gevrey-Chambertin,Roger Voss,Pinot Noir,1,0,0,0,0,0,2010.0,0
+Italy,93,90.0,Piedmont,Barolo,,Nebbiolo,0,0,0,0,0,0,2005.0,0
+Australia,89,10.0,South Australia,South Australia,Joe Czerwinski,Red Blend,0,0,0,0,0,0,2006.0,1
+US,85,39.0,Oregon,Umpqua Valley,Paul Gregutt,Syrah,0,0,0,0,0,0,2013.0,0
+US,91,38.0,Oregon,Willamette Valley,Paul Gregutt,Pinot Noir,0,0,0,0,0,0,2008.0,0
+Chile,89,25.0,Limarí Valley,,Michael Schachner,Pinot Noir,1,0,0,0,0,0,2014.0,0
+US,89,29.0,Oregon,Umpqua Valley,Paul Gregutt,Tempranillo,0,0,0,0,0,0,1999.0,0
+France,92,24.0,Southwest France,Cahors,Roger Voss,Malbec-Tannat,1,0,0,0,0,0,2012.0,1
+Italy,91,33.0,Lombardy,Lugana,Kerin O’Keefe,Turbiana,0,1,0,0,0,0,2013.0,0
+US,89,26.0,California,Sonoma County,Paul Gregutt,Zinfandel,0,0,0,0,0,0,1998.0,0
+Italy,90,70.0,Tuscany,Brunello di Montalcino,,Sangiovese Grosso,0,1,0,0,0,0,2008.0,0
+Italy,90,110.0,Tuscany,Brunello di Montalcino,,Sangiovese Grosso,0,0,0,0,0,0,2008.0,0
+Spain,89,18.0,Andalucia,Jerez,Michael Schachner,Sherry,0,0,0,0,0,0,,0
+Italy,86,16.0,Southern Italy,Beneventano,,Red Blend,0,0,0,0,0,0,2007.0,1
+Spain,88,18.0,Catalonia,Cava,Michael Schachner,Sparkling Blend,0,0,0,0,0,0,,1
+US,88,55.0,California,Santa Lucia Highlands,,Pinot Noir,1,0,0,0,1,0,2008.0,0
+Portugal,89,,Port,,Roger Voss,Port,1,0,0,0,0,1,2009.0,0
+US,87,45.0,Oregon,Willamette Valley,Paul Gregutt,Pinot Noir,0,0,0,0,0,0,2012.0,0
+France,86,15.0,Beaujolais,Beaujolais,Roger Voss,Gamay,1,0,0,0,0,0,2009.0,0
+Argentina,85,20.0,Mendoza Province,Uco Valley,Michael Schachner,Malbec,1,0,0,0,0,0,2010.0,0
+US,90,22.0,Oregon,Willamette Valley,Paul Gregutt,Pinot Blanc,0,0,0,0,0,0,2013.0,0
+US,83,20.0,New York,Hudson River Region,Anna Lee C. Iijima,Chelois,1,0,0,0,0,0,2012.0,0
+France,84,13.0,Bordeaux,Bordeaux Blanc,Roger Voss,Bordeaux-style White Blend,0,0,0,0,0,0,2013.0,1
+South Africa,92,53.0,Swartland,,Lauren Buzzeo,White Blend,0,1,0,0,0,1,2012.0,1
+France,91,45.0,Provence,Côtes de Provence,Roger Voss,Rosé,0,0,0,0,0,0,2015.0,0
+Italy,87,20.0,Veneto,Piave,,Pinot Grigio,0,0,0,0,0,0,2007.0,0
+US,88,42.0,California,Russian River Valley,Virginie Boone,Petite Sirah,0,0,0,0,0,0,2013.0,0
+US,87,11.0,Washington,Columbia Valley (WA),Paul Gregutt,Cabernet Sauvignon-Syrah,1,0,0,0,0,1,2010.0,1
+US,88,21.0,New York,North Fork of Long Island,Anna Lee C. Iijima,Riesling,0,0,0,0,1,0,2010.0,0
+Italy,87,14.0,Sicily & Sardinia,Sicilia,,Inzolia,0,1,0,0,0,0,2010.0,0
+Austria,90,19.0,Burgenland,,Roger Voss,Blaufränkisch,0,0,0,0,0,0,2009.0,0
+US,87,17.0,California,Lodi,Virginie Boone,Port,0,0,0,0,0,1,2004.0,0
+Greece,89,40.0,Peloponnese,,Susan Kostrzewa,Red Blend,1,0,0,0,0,0,2007.0,1
+France,90,35.0,Provence,Coteaux Varois en Provence,Roger Voss,Rosé,0,0,1,0,0,0,2015.0,0
+US,86,14.0,Oregon,Oregon,Paul Gregutt,Pinot Noir,1,0,0,0,0,0,2014.0,0
+US,87,14.0,California,Central Coast,,Chardonnay,0,0,0,0,0,0,2011.0,0
+US,93,50.0,California,Central Coast,Matt Kettmann,Syrah,1,0,0,0,0,0,2011.0,0
+US,93,35.0,California,Sta. Rita Hills,Matt Kettmann,Pinot Noir,1,1,0,0,0,0,2014.0,0
+Italy,89,22.0,Sicily & Sardinia,Terre Siciliane,Kerin O’Keefe,Red Blend,1,0,0,0,1,0,2012.0,1
+US,89,30.0,New York,Finger Lakes,Anna Lee C. Iijima,Riesling,0,0,0,0,1,1,2011.0,0
+US,93,48.0,California,Sonoma Mountain,,Pinot Noir,0,0,0,0,1,0,2009.0,0
+Chile,87,20.0,Casablanca Valley,,Michael Schachner,Syrah,1,0,0,0,0,0,2013.0,0
+Argentina,85,8.0,Mendoza Province,Mendoza,Michael Schachner,Rosé,1,0,0,0,0,0,2011.0,0
+Argentina,85,9.0,Mendoza Province,Mendoza,Michael Schachner,Chardonnay,0,0,0,0,0,1,2010.0,0
+US,88,15.0,California,Monterey County,,Meritage,1,0,0,0,1,0,2006.0,0
+France,86,9.0,Southwest France,Côtes de Gascogne,Roger Voss,Colombard,0,0,0,0,0,0,2014.0,0
+US,86,15.0,Washington,Columbia Valley (WA),Sean P. Sullivan,Cabernet Sauvignon,1,0,0,0,0,0,2015.0,0
+US,87,32.0,California,Yolo County,Jim Gordon,Sparkling Blend,0,0,0,0,0,1,,1
+Germany,89,13.0,Rheinhessen,,Anna Lee C. Iijima,Riesling,0,0,0,0,1,0,2016.0,0
+France,87,18.0,Rhône Valley,Luberon,Joe Czerwinski,Rosé,0,0,1,0,0,0,2010.0,0
+US,93,65.0,Oregon,Dundee Hills,Paul Gregutt,Pinot Noir,1,0,0,0,0,0,2014.0,0
+Portugal,91,60.0,Port,,Roger Voss,Port,0,0,0,0,1,0,2008.0,0
+France,91,25.0,Loire Valley,Pouilly-Fumé,Roger Voss,Sauvignon Blanc,0,1,0,0,0,0,2015.0,0
