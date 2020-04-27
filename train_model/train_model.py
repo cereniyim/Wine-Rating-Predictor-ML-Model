@@ -52,7 +52,7 @@ def train_model(in_train_features_csv,
     X = convert_features_to_array(train_features)
     y = convert_target_to_array(train_target)
 
-    # create random forests regressor model
+    # create random forest regressor model
     # with fine-tuned set of parameters
     model = RandomForestRegressor(bootstrap=True, ccp_alpha=0.0, criterion='mse',
                                   max_depth=None, max_features='sqrt', max_leaf_nodes=None,

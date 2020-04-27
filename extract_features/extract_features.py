@@ -6,10 +6,12 @@ import datetime
 
 def _save_datasets(train, test, outdir: Path, flag):
     """save features extracted train and test datasets and write SUCCESS flag."""
+    # csv paths and flag path
     out_train = outdir / 'train_features_extracted.csv/'
     out_test = outdir / 'test_features_extracted.csv/'
     flag = outdir / flag
 
+    # save as csv and create flag file
     train.to_csv(str(out_train), index=False)
     test.to_csv(str(out_test), index=False)
 

@@ -61,7 +61,7 @@ def PlotPredictedVSActual(predictions, actuals, png_name):
             """
 
     #set figure size and the font size
-    plt.figure(figsize=(20, 10))
+    plt.figure(figsize=(26, 12))
     plt.rcParams['font.size'] = 24
 
     # set histogram of predictions, title and labels
@@ -124,6 +124,7 @@ def PlotFeatureImportances(model, feature_names, png_name):
     # set title and save plot
     plt.title("Feature Importances", size =24)
     plt.savefig(png_name)
+
 
 @click.command()
 @click.option('--in-test-features-csv')

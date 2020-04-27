@@ -11,12 +11,14 @@ def _save_datasets(train_features,
                    flag):
     """save imputed and ML-ready train and target features
     # test features and target and write SUCCESS flag."""
+    # csv paths and flag path
     out_train_features = outdir / 'train_features.csv/'
     out_test_features = outdir / 'test_features.csv/'
     out_train_target = outdir / 'train_target.csv/'
     out_test_target = outdir / 'test_target.csv/'
     flag = outdir / flag
 
+    # save as csv and create flag file
     train_features.to_csv(str(out_train_features),
                           index=False)
     test_features.to_csv(str(out_test_features),
