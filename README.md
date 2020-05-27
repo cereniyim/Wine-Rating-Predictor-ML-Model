@@ -1,6 +1,6 @@
 # Wine Rating Predictor
 
-In this procject, I built a wine rating predictor for an online wine seller. This wine predictor aims to show good prediction is possible using the ```wine_dataset``` . 
+In this project, I built a wine rating predictor for an online wine seller. This wine predictor aims to show good prediction is possible using the ```wine_dataset``` . 
 
 Wine rating is a score between 80 and 100 and represents the quality of wine. With the current set of features, random forest classifier and its tuned parameter wine rating predictor can predict the quality of wine with the mean square error of 4.9. This metric shows that fully-automated machine learning solution on production is feasible and effective for the client.
 
